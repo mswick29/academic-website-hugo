@@ -83,6 +83,20 @@ sections:
           organization_url: https://our.utah.edu/
           title: Undergraduate Research Scholar Designation
           url: 'https://our.utah.edu/undergraduate-research-scholar-designation/'
+        - date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          organization: University of Utah
+          organization_url: https://our.utah.edu/
+          title: Francis Family Foundation Undergraduate Research Scholarship
+          url: 'https://our.utah.edu/research-scholarship-opportunities/scholarship-opportunities/francis-fund/'
+        - date_end: ''
+          date_start: '2020-08-01'
+          description: ''
+          organization: University of Utah
+          organization_url: https://csbs.utah.edu/
+          title: Aimee LaPine Memorial Scholarship
+          url: 'https://csbs.utah.edu/students/scholarships/database.php'
     design:
       columns: '2'
   - block: collection
@@ -92,7 +106,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: ''
       # Filter on criteria
       filters:
         folders:
@@ -129,7 +143,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Projects
           tag: Deep Learning
         - name: Other
           tag: Demo
