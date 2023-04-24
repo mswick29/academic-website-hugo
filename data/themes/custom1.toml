@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Custom1"
+
+[light]
+  # Primary
+  primary = "#69122f"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#606580"
+  menu_text_active = "#e75e4b"
+  menu_title = "#2b2e3b
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(255, 248, 236)"
+
+[dark]
+  # Primary
+  primary = "#f9edc8"
+
+  link = "#f9edc8"
+  link_hover = "#f9edc8"
