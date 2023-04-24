@@ -12,22 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -40,33 +24,49 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Senior Research Associate
+          company: Veris Insights
+          company_url: 'https://verisinsights.com/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Washington, D.C. (Remote)
+          date_start: '2022-01-31'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Data analysis
+              * Creating research deliverables
+              * Managing projects
+        - title: Instructional Aide
+          company: San Luis Coastal Unified School District
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: San Luis Obispo, California
+          date_start: '2022-08-25'
+          date_end: ''
+          description: Provide socio-emotional, behavioral, and academic support in a kindergarten classroom 
     design:
       columns: '2'
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: Beginner
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: Beginner
+          icon: chart-line
+          icon_pack: fas
+        - name: Project Management
+          description: Intermediate
+          icon: clipboard
+          icon_pack: fas
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards & Scholarship'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -76,30 +76,27 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: University of Utah
+          organization_url: https://our.utah.edu/
+          title: Undergraduate Research Scholar Designation
+          url: 'https://our.utah.edu/undergraduate-research-scholar-designation/'
+        - date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          organization: University of Utah
+          organization_url: https://our.utah.edu/
+          title: Francis Family Foundation Undergraduate Research Scholarship
+          url: 'https://our.utah.edu/research-scholarship-opportunities/scholarship-opportunities/francis-fund/'
+        - date_end: ''
+          date_start: '2020-08-01'
+          description: ''
+          organization: University of Utah
+          organization_url: https://csbs.utah.edu/
+          title: Aimee LaPine Memorial Scholarship
+          url: 'https://csbs.utah.edu/students/scholarships/database.php'
     design:
       columns: '2'
   - block: collection
@@ -109,7 +106,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: ''
       # Filter on criteria
       filters:
         folders:
@@ -146,7 +143,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Projects
           tag: Deep Learning
         - name: Other
           tag: Demo
