@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Developmental Psychology, Graduate Student
+role: Developmental Psychology, Graduate Student @ U.C. Davis
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -54,12 +54,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=_gW68HQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mswick29
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maia-southwick/
