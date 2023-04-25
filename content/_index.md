@@ -5,13 +5,12 @@ date: 2023-04-23
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: about.biography
     id: about
     content:
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Override your bio text from `authors/admin/_index.md`?
-      text:
   - block: experience
     content:
       title: Experience
@@ -43,6 +42,13 @@ sections:
           date_start: '2022-08-25'
           date_end: ''
           description: Provide socio-emotional, behavioral, and academic support in a kindergarten classroom 
+        - title: Child Development Specialist
+          company: Compass Center, Inc.
+          company_url: ''
+          location: Santa Maria, California
+          date_start: '2021-11-22'
+          date_end: '2022-08-24'
+          description: Provided 1:1 intervention for 2- to 3-year-old toddlers
     design:
       columns: '2'
   - block: features
