@@ -27,7 +27,7 @@ sections:
         - title: Senior Research Associate
           company: Veris Insights
           company_url: 'https://verisinsights.com/'
-          company_logo: org-gc
+          company_logo: ''
           location: Washington, D.C. (Remote)
           date_start: '2022-01-31'
           date_end: ''
@@ -40,7 +40,7 @@ sections:
         - title: Instructional Aide
           company: San Luis Coastal Unified School District
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: San Luis Obispo, California
           date_start: '2022-08-25'
           date_end: ''
