@@ -1,16 +1,12 @@
 ---
-title: "An example journal article"
+title: "Subsidized Child Care Policy & Its Implications for Low-Income Families"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-04-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,36 +15,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Hinckley Journal of Politics, 21*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recent federal regulations sought to increase funding for subsidizing qualified child care arrangements in order to promote access to affordable child care among low-income families. Access to child care is associated with promoting economic mobility and positive development among children. However, only a quarter of all eligible children in the United States received subsidized child care in 2016. This paper seeks to provide an overview of current child care policy and to explore the factors that may contribute to the deficit in participation in subsidy use among eligible low-income families. Understanding these factors can
+inform community outreach, application processes, and overall increasing access to social welfare resources. Factors include nontraditional work schedules, full time work, relying on relatives for child care, state funding priorities, and general lack of knowledge or discouragement of the application process. An important question for lawmakers to consider upon this analysis is whether focus should be given to either more comprehensive, inclusive child care policy or more sustainable, targeted policy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper seeks to provide an overview of current child care policy and to explore the factors that may contribute to the deficit in participation in subsidy use among eligible low-income families. 
 
 tags:
-- Source Themes
+- Policy
+- Child Care
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://static1.squarespace.com/static/53714acce4b0bb13e3c90e93/t/5f038c65b7e1fd56c37b35fc/1594068099353/Hinckley+Journal+2020
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,7 +50,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
