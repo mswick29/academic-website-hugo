@@ -97,6 +97,20 @@ sections:
           organization_url: https://csbs.utah.edu/
           title: Aimee LaPine Memorial Scholarship
           url: 'https://csbs.utah.edu/students/scholarships/database.php'
+        - date_end: '2020-08-01'
+          date_start: '2020-01-01'
+          description: ''
+          organization: University of Utah
+          organization_url: https://our.utah.edu/
+          title: Undergraduate Research Opportunities Program Scholar
+          url: 'https://our.utah.edu/research-scholarship-opportunities/urop/'
+        - date_end: '2018-08-01'
+          date_start: '2020-01-01'
+          description: ''
+          organization: University of Utah
+          organization_url: https://csbs.utah.edu/
+          title: College of Social & Behavioral Sciences Solutions Scholar
+          url: 'https://csbs.utah.edu/students/solutions-scholars.php'
     design:
       columns: '2'
   - block: collection
@@ -207,35 +221,19 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to send an email for further information about myself, the content you've seen, or anything relevant!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: southwick.maia@gmail.com
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        city: San Luis Obispo
         region: CA
-        postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: linkedin
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'hhttps://www.linkedin.com/in/maia-southwick/'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -245,7 +243,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
