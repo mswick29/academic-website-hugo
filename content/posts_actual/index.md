@@ -9,7 +9,7 @@ tags: ''
 # eventually will add in categories based on what I post
 
 # will need to switch draft to false once I'm ready
-draft: true
+draft: false
 
 # View.
 #   1 = List
