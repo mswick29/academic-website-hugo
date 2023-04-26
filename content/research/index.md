@@ -1,6 +1,6 @@
 ---
-title: Writings
-summary: A wide variety of writings - read at your own risk (or benefit)!
+title: Research Interests
+summary: Current, past, and future research interests - wherever the world will allow.
 date: "2023-04-25T00:00:00Z"
 authors: ''
 tags: ''
@@ -15,7 +15,7 @@ draft: false
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 5
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
