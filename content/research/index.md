@@ -22,3 +22,11 @@ header:
   caption: ''
   image: ''
 ---
+
+## Research Interests
+
+1. **How do individuals come to understand others and themselves as moral persons?**
+2. **What processes underlie the development of our understanding of ourselves and others as moral persons?**
+3. **How does our understanding of ourselves and others as moral persons shift from social contexts, relational contexts, and across major developmental periods?**
+4. Can change occur outside of typical developmental processes in our understandings  of ourselves and others as moral persons? What does it take?
+5. How does the understanding of ourselves and others as moral agents inform broader identity development?
