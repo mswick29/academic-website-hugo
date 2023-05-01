@@ -53,8 +53,3 @@ categories:
 
 *Rather than thinking of my next steps in terms of what I want,* I’ve started thinking about what I owe to others, what others have sacrificed for the opportunities I have, and what I can best offer to the world. I hope to offer a unique voice in the field of psychology, not only because of my background, but because I earnestly believe the takeaways we could pull from studying moral development can make a meaningful difference, small or large, in the life that we share with others.
 
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
