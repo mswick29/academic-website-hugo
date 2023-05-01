@@ -1,5 +1,5 @@
 ---
-title: 3000 Miles
+title: Three Thousand Miles
 subtitle: A brief history on my journey in applying to graduate school
 
 # Summary for listings and search engines
