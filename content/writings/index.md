@@ -16,7 +16,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - writings
+          - posts
         author: ""
         category: ""
         tag: ""
@@ -33,7 +33,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view: compact
       # Choose single or dual column layout
-      columns: '2'
+      columns: '1'
 ---
