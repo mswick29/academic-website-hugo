@@ -1,11 +1,12 @@
 ---
 title: Writings
+cms_exclude: true
 summary: A wide variety of writings - read at your own risk (or benefit)!
 date: "2023-04-25T00:00:00Z"
 authors: ''
 tags: ''
 # featured: true - to add when more writings come out
-# categories: ["name"] 
+categories: ["Blog"] 
 # eventually will add in categories based on what I post
 
 # will need to switch draft to false once I'm ready
