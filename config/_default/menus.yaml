@@ -14,7 +14,7 @@ main:
     url: 'how_to/'
     weight: 30  
   - name: Writings
-    url: 'writings/'
+    url: 'post/'
     weight: 40    
   - name: Contact
     url: '#contact'
