@@ -1,7 +1,8 @@
 ---
 title: Writings
+date: 2023-05-07
 type: landing
-summary: A wide variety of writings - read at your own risk (or benefit)!
+# summary: A wide variety of writings - read at your own risk (or benefit)!
 
 sections:
   - block: collection
