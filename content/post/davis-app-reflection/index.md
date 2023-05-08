@@ -1,18 +1,11 @@
 ---
 title: Three Thousand Miles
 subtitle: A brief history on my journey in applying to graduate school
+date: "2023-05-06T00:00:00Z"
+
 
 # Summary for listings and search engines
-summary: Below is a personal history statement I submitted for PhD program applications in Fall 2022. My decision to finally jump into a PhD program arose in the wake of grief, discovery, and determination.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: 2023-05-06T00:00:00Z
-
-# Date updated
-lastmod: 2023-04-30T00:00:00Z
+summary: "Below is a personal history statement I submitted for PhD program applications in Fall 2022. My decision to finally jump into a PhD program arose in the wake of grief, discovery, and determination."
 
 # Is this an unpublished draft?
 draft: false
@@ -38,7 +31,9 @@ tags:
 
 categories:
   - Blog
-  
+
+projects:
+ 
 ---
 
 *One year ago,* I made the choice to step away from a dashed dream in law to fly three thousand miles to support my family in a time of illness and grief. Soon after I received a late night call detailing my stepmother’s prognosis and my dad’s health, I submitted my two week’s notice to my small New York City job and set my sights on arriving in California on October 31st, 2021. Any interest I had in pursuing a law career was thrown out the window. I would have to re-establish myself in a town much, much smaller than New York City. It took a few months to re-enter the job market, and an even longer time to think about my future as a professional. My own ambitions were overshadowed by the need to be an emotional and social support for my father and my half- and step-brothers.
@@ -52,4 +47,3 @@ categories:
 *Undoubtedly,* I would not be in the position I am now without the support of my family. The opportunities and privileges I have because of the hard work and identities of my parents have been invaluable. The three thousand miles I traveled is a drop in the bucket compared to the nearly ten thousand miles my mother and grandmother traveled to enter the U.S. in the aftermath of the Vietnam War. My father, who came from a poor white family, woke at the crack of dawn each day to work a job that would help him pay his way through his bachelor’s degree. When I look up to my parents, I see their lives have been defined by the choices they made and the opportunities afforded to them. Life has always been consistently uncertain for my family, but their drive and perseverance are what led to me being where I’m at today.
 
 *Rather than thinking of my next steps in terms of what I want,* I’ve started thinking about what I owe to others, what others have sacrificed for the opportunities I have, and what I can best offer to the world. I hope to offer a unique voice in the field of psychology, not only because of my background, but because I earnestly believe the takeaways we could pull from studying moral development can make a meaningful difference, small or large, in the life that we share with others.
-
