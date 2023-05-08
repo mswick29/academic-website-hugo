@@ -1,12 +1,12 @@
 ---
 title: Writings
-date: 2023-05-07
+date: 2023-04-30
 type: landing
 summary: A wide variety of writings - read at your own risk (or benefit)!
 
 sections:
   - block: collection
-    id: posts
+    id: writings
     content:
       title: Recent Posts
       subtitle: ''
