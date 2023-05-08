@@ -17,7 +17,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - posts
+          - writings
         author: ""
         category: ""
         tag: ""
