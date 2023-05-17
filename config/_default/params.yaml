@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
-  theme_night: 1950s
+  theme_day: my_theme
+  theme_night: ''
   font: rose
-  font_size: m
+  font_size: s
 
 # SEO
 
