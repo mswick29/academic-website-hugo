@@ -10,9 +10,6 @@ main:
   - name: Research
     url: 'research/'
     weight: 20   
-  - name: Handbook
-    url: 'how_to/'
-    weight: 30  
   - name: Writings
     url: 'post/'
     weight: 40    
