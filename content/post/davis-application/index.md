@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Maia Southwick, Dec. 2021'
+  caption: 'Image credit: Santa Maria, CA, Dec. 2021'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -41,14 +41,17 @@ categories:
 
 <h2 style="text-align: center;">An Explainer</h2>
 
-Below is the essay I submitted to University of California, Davis. I applied for admission the psychology PhD program, with a developmental emphasis. The application was inevitable. It was a matter of “when” it would be submitted.
+Below is a version of the essay I submitted to the University of California, Davis. I applied for admission the psychology PhD program, with a developmental emphasis. The application was inevitable. It was a matter of “when” it would be submitted.
 
 This was the first in a long time where I wrote honestly. It took a moment for my filters to be removed. To feel unencumbered with crafting a story I thought people wanted to hear. To ignore the personal editor in my head who says I don’t need to speak my thoughts or discuss openly the hard stuff in life.
 
-Of course, I was writing for admission to a top-tier university where I was competing gets an unknown number of mysteriously much-better applicants. The paragraph about my mother and father express my true thoughts surrounding my background and my future. However, the paragraph, and the rest of this essay, is underpinned with the fact I was trying to distinguish myself as a unique individual and diverse candidate, when in actuality, discovery, change, and loss is a story almost anyone can tell. 
+Keep in mind, I was writing for admission to a top-tier university where I was competing gets an unknown number of mysteriously much-better applicants. The paragraph about my mother and father express my true thoughts surrounding my background and my future. However, the paragraph, and the rest of this essay, is underpinned with the fact I was trying to distinguish myself as a unique individual and diverse candidate, when in actuality, discovery, change, and loss is a story almost anyone can tell. 
+
+However, I stand by the takeaways I outline from my stories. Those are authentic, whether you choose to believe them or not.
 
 
-<h1 style="text-align: center;">Personal History & Diversity Statement</h1>
+<h2 style="text-align: center;">Personal History & Diversity Statement</h2>
+
 
 *One year ago, I made the choice to step away from a dashed dream in law to fly three thousand miles to support my family in a time of illness and grief. Soon after I received a late night call detailing my stepmother’s prognosis and my dad’s health, I submitted my two week’s notice to my small New York City job and set my sights on arriving in California on October 31st, 2021. Any interest I had in pursuing a law career was thrown out the window. I would have to re-establish myself in a town much, much smaller than New York City. It took a few months to re-enter the job market, and an even longer time to think about my future as a professional. My own ambitions were overshadowed by the need to be an emotional and social support for my father and my half- and step-brothers.*
 
