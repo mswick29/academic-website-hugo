@@ -1,0 +1,15 @@
+# Font style metadata
+name = "maia"
+
+# Optional Google font URL
+google_fonts = "family=Chewy:wght@400&family=Mali:wght@300;700&family=PT+Mono"
+
+# Font families
+heading_font = "Chewy"
+body_font = "Mali"
+nav_font = "Mali"
+mono_font = "PT Mono"
+
+# Font size
+# font_size = "18"
+# font_size_small = "14"
