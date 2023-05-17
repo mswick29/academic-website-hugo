@@ -1,22 +1,26 @@
 # Theme metadata
-name = "my_theme"
-
-light = true
+name = "default"
+# Is the theme light or dark?
 
 [light]
   # Primary
-  primary = "#052321"
+  primary = "#052321" # Dark black-green
+
+  primary_light = "#C9F7F4" # mint
+
+  primary_dark = "#373833" # dark grey
 
   # Menu
-  menu_primary = "#F4E285"
-  menu_text = "#592124"
-  menu_text_active = "#A43d42"
-  menu_title = "#A43d42"
+  menu_primary = "#F4E285" # light yellow
+  menu_text = "#592124" # deep maroon
+  menu_text_active = "#A43d42" # deep red
+  menu_title = "#A43d42" # deep red
 
   # Home sections
-  home_section_odd = "#C9F7F4"
-  home_section_even = "#F7F7F7"
+  background = "#F7F7F7" # offwhite
+  home_section_odd = "#F7F7F7" # offwhite
+  home_section_even = "#C9F7F4" # mint
   
   #Links
-  link = "#F4A259"
-  link_hover = "#8CB369"
+  link = "#F4A259" # orange
+  link_hover = "#8CB369" # green
