@@ -4,11 +4,11 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#5F0707" # rosewood
+  primary = "#BF211E" # turkey red
 
   primary_light = "#BBE4F1" # light blue
 
-  primary_dark = "#A70B0B" # turkey red
+  primary_dark = "#5F0707" # rosewood 
 
   # Menu
   menu_primary = "#6798c0" # Blue gray
