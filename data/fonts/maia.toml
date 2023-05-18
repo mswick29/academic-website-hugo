@@ -2,12 +2,12 @@
 name = "maia"
 
 # Optional Google font URL
-google_fonts = "family=Chewy:wght@400&family=Mali:wght@300;700&family=PT+Mono"
+google_fonts = "family=Bubblegum+Sans:wght@400&family=Source+Sans+Pro:wght@300;700&family=PT+Mono"
 
 # Font families
-heading_font = "Chewy"
-body_font = "Mali"
-nav_font = "Mali"
+heading_font = "Bubblegum Sans"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
 mono_font = "PT Mono"
 
 # Font size
