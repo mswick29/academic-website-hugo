@@ -22,5 +22,5 @@ name = "default"
   home_section_even = "#FEE286" # jasmine
 
   #Links
-  link = "#F4A259" # light orange
-  link_hover = "#99D6EA" # non photo blue
+  link = "#BF211E" # turkey red
+  link_hover = "#F4A259" # light orange
