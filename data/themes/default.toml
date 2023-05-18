@@ -4,11 +4,11 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#372B2B" # van dyke
+  primary = "#5F0707" # rosewood
 
   primary_light = "#BBE4F1" # light blue
 
-  primary_dark = "#850A0A" # maroon
+  primary_dark = "#A70B0B" # turkey red
 
   # Menu
   menu_primary = "#6798c0" # Blue gray
@@ -19,8 +19,8 @@ name = "default"
   # Home sections
   background = "#FFF5D6" # cornsilk
   home_section_odd = "#FFF5D6" # cornsilk
-  home_section_even = "#FFF5D6" # jasmine
+  home_section_even = "#FEE286" # jasmine
 
   #Links
-  link = "#99D6EA" # non photo blue
-  link_hover = "#F4A259" # light orange
+  link = "#F4A259" # light orange
+  link_hover = "#99D6EA" # non photo blue
