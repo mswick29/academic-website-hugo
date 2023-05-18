@@ -1,5 +1,5 @@
 ---
-title: "'I never felt like I was heard;: The experience of feeling heard in disagreements across relationships'"
+title: "'I never felt like I was heard': The experience of feeling heard in disagreements across relationships'"
 authors:
 - admin
 author_notes: ""
