@@ -1,9 +1,9 @@
 ---
 title: Just Another Personal History
-subtitle: An act of vulnerability in sharing the uncertainty, loss, and grief I faced.
+subtitle: A reflection on uncertainty and loss.
 
 # Summary for listings and search engines
-summary: An act of vulnerability in sharing the uncertainty, loss, and grief I faced.
+summary: A reflection on uncertainty and loss.
 
 # Link this post with a project
 projects: []
