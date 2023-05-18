@@ -2,10 +2,10 @@
 name = "maia"
 
 # Optional Google font URL
-google_fonts = "family=Orelega+One:wght@400&family=Source+Sans+Pro:wght@300;700&family=PT+Mono"
+google_fonts = "family=Lilita+One:wght@400&family=Source+Sans+Pro:wght@300;700&family=PT+Mono"
 
 # Font families
-heading_font = "Orelega One"
+heading_font = "Lilita One"
 body_font = "Source Sans Pro"
 nav_font = "Source Sans Pro"
 mono_font = "PT Mono"
