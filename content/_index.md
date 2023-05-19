@@ -120,10 +120,10 @@ sections:
           description: Intermediate
           icon: clipboard
           icon_pack: fas
-  - block: What I've Accomplished
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards & Scholarship'
+      title: 'What I've Accomplished'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
