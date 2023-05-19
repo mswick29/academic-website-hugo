@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Maia Southwick is an incoming PhD student to the Mind & Emotions Lab at the University of California, Davis.
+I am an incoming PhD student to the Mind & Emotions Lab at the University of California, Davis. 
 {style="text-align: justify;"}

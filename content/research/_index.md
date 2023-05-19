@@ -12,7 +12,6 @@ header:
   caption: ""
   image: ""
 
-toc: true
 ---
 
 
