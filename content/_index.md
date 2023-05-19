@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Experience
+      title: What I've Done - Research & Teaching
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -30,30 +30,83 @@ sections:
           date_start: '2022-01-31'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              * Proposed a novel product which led to a nine-month research project developing a unique sourcing resource to support talent acquisition professionals in building a more diverse, equitable workforce
+              * Managed a portfolio of multiple concurrent research projects, including both collaborative and individual assignments on trends in job seeker decision-making and macroeconomic analysis
+        - title: Research Assistant
+          company: University of Utah, Social Development Lab
+          company_url: 'https://psych.utah.edu/research/labs/social-development-lab.php'
+          location: Salt Lake City, Utah
+          date_start: '2018-01-01'
+          date_end: '2021-05-07'
+          description: |2-
+          Principal investigators: [Drs. Monisha Pasupathi](https://psych.utah.edu/people/faculty/pasupathi-monisha.php) & [Cecilia Wainryb] (https://psych.utah.edu/people/faculty/wainryb-cecilia.php)
 
-              * Data analysis
-              * Creating research deliverables
-              * Managing projects
+          * Developed an undergraduate thesis exploring social relationships, conflict, and interpersonal resolution by creating a university-scale online survey, leading a team of RAs quantifying qualitative data, and performing a series of statistical analyses from 400 coded narratives
+          * Processed and analyzed narrative and survey data from over 200 college freshmen in a multi-institution longitudinal study investigating the effects of displacement caused by COVID-19, such as disruptions in identity development, mental health concerns, and additional impacts
+        - title: Teaching Assistant, PSY 1010 & 2010
+          company: University of Utah, Department of Psychology
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2019-08-22'
+          date_end: '2020-05-07'
+          description: |2-
+          * Graded student papers and provided support to 150 students to promote classroom success in a general psychology class
+          * Prepared and presented a 40-minute lecture focused on the development of sense of self across infancy to adolescence to a general psychology class of 300 students
+    design:
+      columns: '2'
+  - block: experience
+    content:
+      title: What I've Done - Applied Developmental Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
         - title: Instructional Aide
           company: San Luis Coastal Unified School District
           company_url: ''
           location: San Luis Obispo, California
           date_start: '2022-08-25'
           date_end: ''
-          description: Provide socio-emotional, behavioral, and academic support in a kindergarten classroom 
+          description: |2-
+          * Assisting the teacher with the preparation and presentation of instructional activities in reading, language, math, and other subject areas 
+          * Supporting the teacher in classroom management and socio-emotional learning
         - title: Child Development Specialist
           company: Compass Center, Inc.
           company_url: ''
           location: Santa Maria, California
           date_start: '2021-11-22'
           date_end: '2022-08-24'
-          description: Provided 1:1 intervention for 2- to 3-year-old toddlers
+          description: |2-
+          * Provided one-on-one intervention for two- to three-year-old toddlers, modeled effective adult-child interactions, and maintained weekly visits to provide complete early intervention services
+          * Designed implemented, and adapted activities for language, cognitive, fine and gross motor, sensory, self-help, and socio-emotional development
+        - title: Learning Coach & Behavior Technician
+          company: Fit Learning SLC
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2020-08-22'
+          date_end: '2021-07-22'
+          description: |2-
+          * Coached students aged 8 to 15 in core math and reading skills to promote cognitive fitness and help students achieve fluency in previously struggling educational areas
+          * Engaged in behavioral management throughout coaching sessions with learners using principles from applied behavioral analysis and general reinforcement strategies
+        - title: Preschool Assistant
+          company: The Children's Center
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2017-10-01'
+          date_end: '2018-08-01'
+          description: |2-
+          * Interacted with 9 children aged 4-5 with emotional and behavioral challenges through play and demonstration of socially appropriate behaviors and emotion management techniques
+          * Assisted 2 Therapeutic Preschool Specialists in managing and maintaining the classroom to create a safe and consistent environment for the children
     design:
       columns: '2'
   - block: features
     content:
-      title: Skills
+      title: What I've Learned
       items:
         - name: R
           description: Beginner
@@ -67,7 +120,7 @@ sections:
           description: Intermediate
           icon: clipboard
           icon_pack: fas
-  - block: accomplishments
+  - block: What I've Accomplished
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards & Scholarship'
@@ -120,7 +173,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Reach Out!
       subtitle:
       text: |-
         Feel free to send an email for further information about myself, the content you've seen, or anything relevant!
@@ -148,6 +201,7 @@ sections:
           captcha: true
     design:
       columns: '2'
+
 ---
 #All hidden blocks - here for future use:
 #- block: collection
