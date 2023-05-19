@@ -11,10 +11,11 @@ view: 2
 header:
   caption: ""
   image: ""
+
 ---
 
 
-*"The more you know yourself, the more patience you have what you see in others".*  **-Erik H. Erikson**
+*"The more you know yourself, the more patience you have for what you see in others".*  **-Erik H. Erikson**
 
 
 ## Guiding Research Questions
