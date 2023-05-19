@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: What I've Done - Research & Teaching
+      title: Research & Teaching Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -36,7 +36,7 @@ sections:
           location: Salt Lake City, Utah
           date_start: '2018-01-01'
           date_end: '2021-05-07'
-          description: Principal investigators were [Drs. Monisha Pasupathi](https://psych.utah.edu/people/faculty/pasupathi-monisha.php) & [Cecilia Wainryb] (https://psych.utah.edu/people/faculty/wainryb-cecilia.php)
+          description: ''
         - title: Teaching Assistant, PSY 1010 & 2010
           company: University of Utah, Department of Psychology
           company_url: ''
@@ -48,7 +48,7 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: What I've Done - Applied Developmental Experience
+      title: Applied Developmental Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -85,6 +85,48 @@ sections:
           location: Salt Lake City, Utah
           date_start: '2017-10-01'
           date_end: '2018-08-01'
+          description: ''
+    design:
+      columns: '2'
+  - block: experience
+    content:
+      title: Social Systems Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Volunteer Income Tax Assitance (VITA) Volunteer
+          company: United Way
+          company_url: ''
+          location: Santa Maria, California
+          date_start: '2022-01-14'
+          date_end: '2022-04-15'
+          description: ''
+        - title: Census Taker (Enumerator)
+          company: United States Census Bureau
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2020-08-22'
+          date_end: '2020-09-24'
+          description: ''
+        - title: Student Intern
+          company: YWCA, Family Justice Center
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2020-01-01'
+          date_end: '2021-03-01'
+          description: ''
+        - title: Strategic Planning Intern
+          company: U.S. Department of Health & Human Services
+          company_url: ''
+          location: Washington, D.C.
+          date_start: '2019-05-01'
+          date_end: '2019-08-01'
           description: ''
     design:
       columns: '2'
