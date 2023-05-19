@@ -13,9 +13,8 @@ header:
   image: ""
 ---
 
-*"The more you know yourself, the more patience you have what you see in others".*
-**-Erik H. Erikson**
 
+*"The more you know yourself, the more patience you have what you see in others".*  **-Erik H. Erikson**
 
 
 ## Guiding Research Questions
@@ -30,9 +29,8 @@ header:
 
 In this section, my research interests are presented in a fashion much like that of a typical research paper, from an introduction on core topics I'm interested in to avenues to exploring these topics and the considerations and challenges that go alongside them.
 
-While I am at the start of my academic career, you can access my prior undergraduate work in childcare policy and subjective interpretation in the [publications section](/content/publications/).
+While I am at the start of my academic career, you can access my prior undergraduate work in childcare policy and subjective interpretation in the [publications section](/publications/).
 
 # Research Foundation
 
-My research background ranges from a strictly psychological roots to  narrative identity to socio-emotional development to federal policy and talent acquisition market research.
----
+My research background ranges from strictly psychological roots to  narrative identity to socio-emotional development to federal policy and talent acquisition market research.
