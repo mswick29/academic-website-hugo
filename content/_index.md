@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Experience
+      title: What I've Done - Research & Teaching
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -29,31 +29,68 @@ sections:
           location: Washington, D.C. (Remote)
           date_start: '2022-01-31'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Data analysis
-              * Creating research deliverables
-              * Managing projects
+          description: ''
+        - title: Research Assistant
+          company: University of Utah, Social Development Lab
+          company_url: 'https://psych.utah.edu/research/labs/social-development-lab.php'
+          location: Salt Lake City, Utah
+          date_start: '2018-01-01'
+          date_end: '2021-05-07'
+          description: Principal investigators were [Drs. Monisha Pasupathi](https://psych.utah.edu/people/faculty/pasupathi-monisha.php) & [Cecilia Wainryb] (https://psych.utah.edu/people/faculty/wainryb-cecilia.php)
+        - title: Teaching Assistant, PSY 1010 & 2010
+          company: University of Utah, Department of Psychology
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2019-08-22'
+          date_end: '2020-05-07'
+          description: ''
+    design:
+      columns: '2'
+  - block: experience
+    content:
+      title: What I've Done - Applied Developmental Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
         - title: Instructional Aide
           company: San Luis Coastal Unified School District
           company_url: ''
           location: San Luis Obispo, California
           date_start: '2022-08-25'
           date_end: ''
-          description: Provide socio-emotional, behavioral, and academic support in a kindergarten classroom 
+          description: ''
         - title: Child Development Specialist
           company: Compass Center, Inc.
           company_url: ''
           location: Santa Maria, California
           date_start: '2021-11-22'
           date_end: '2022-08-24'
-          description: Provided 1:1 intervention for 2- to 3-year-old toddlers
+          description: ''
+        - title: Learning Coach & Behavior Technician
+          company: Fit Learning SLC
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2020-08-22'
+          date_end: '2021-07-22'
+          description: ''
+        - title: Preschool Assistant
+          company: The Children's Center
+          company_url: ''
+          location: Salt Lake City, Utah
+          date_start: '2017-10-01'
+          date_end: '2018-08-01'
+          description: ''
     design:
       columns: '2'
   - block: features
     content:
-      title: Skills
+      title: What I've Learned
       items:
         - name: R
           description: Beginner
@@ -70,7 +107,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards & Scholarship'
+      title: What I've Accomplished
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -120,7 +157,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Reach Out!
       subtitle:
       text: |-
         Feel free to send an email for further information about myself, the content you've seen, or anything relevant!
@@ -148,6 +185,7 @@ sections:
           captcha: true
     design:
       columns: '2'
+
 ---
 #All hidden blocks - here for future use:
 #- block: collection
