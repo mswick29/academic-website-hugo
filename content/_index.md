@@ -142,15 +142,12 @@ sections:
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: ''          icon: chart-line
+          description: ''          
+          icon: chart-line
           icon_pack: fas
         - name: Project Management
           description: ''
           icon: clipboard
-          icon_pack: fas
-        - name: Data Analysis
-          description: ''
-          icon: magnifying-glass-chart
           icon_pack: fas
   - block: accomplishments
     content:
