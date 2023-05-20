@@ -14,6 +14,7 @@ sections:
   - block: experience
     content:
       title: Research & Teaching Experience
+      subtitle: I've developed a strong background in research and psychology more broadly.
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -49,6 +50,7 @@ sections:
   - block: experience
     content:
       title: Applied Developmental Experience
+      subtitle: I've worked with youth aged 2 to 15 years old across educational and therapeutic contexts.
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -87,10 +89,11 @@ sections:
           date_end: '2018-08-01'
           description: ''
     design:
-      columns: '2'
+      columns: '3'
   - block: experience
     content:
       title: Social Systems Experience
+      subtitle: I've worked in contexts where institutions and larger systems interact with people's everyday lives.
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -132,7 +135,7 @@ sections:
       columns: '2'
   - block: features
     content:
-      title: What I've Learned
+      title: What I've Learned #add in overview or more skills, see if two rows is possible
       items:
         - name: R
           description: Beginner
