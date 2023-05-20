@@ -14,7 +14,7 @@ sections:
   - block: experience
     content:
       title: Research & Teaching Experience
-      subtitle: I've developed a strong background in research and studying developmental psychology.
+      subtitle: Developed a strong background in research and studying developmental psychology
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -50,7 +50,7 @@ sections:
   - block: experience
     content:
       title: Applied Developmental Experience
-      subtitle: I've worked with youth aged 2- to 15-years-old across educational and therapeutic contexts.
+      subtitle: Worked with youth aged 2- to 15-years-old across educational and therapeutic contexts
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -93,7 +93,7 @@ sections:
   - block: experience
     content:
       title: Social Systems Experience
-      subtitle: I've worked in contexts where social and economic institutions intersect with people's everyday lives.
+      subtitle: Worked in contexts where social and economic institutions intersect with people's everyday lives
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
