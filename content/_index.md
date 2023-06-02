@@ -50,7 +50,11 @@ sections:
   - block: experience
     content:
       title: Applied Developmental Experience
-      subtitle: Worked with youth aged 2- to 15-years-old across educational and therapeutic contexts
+      subtitle: Worked with youth aged 2- to 15-years-old across educational and therapeutic contexts. >-
+      * Learned how to provide classroom support
+      * Facilitated socio-emotional learning
+      * Guided instructional activities in reading, writing, logic, & math
+      * Implemented early intervention services & behavioral management
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -65,7 +69,7 @@ sections:
           company_url: ''
           location: San Luis Obispo, California
           date_start: '2022-08-25'
-          date_end: ''
+          date_end: '2023-06-02'
           description: ''
         - title: Child Development Specialist
           company: Compass Center, Inc.
