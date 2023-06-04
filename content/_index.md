@@ -14,7 +14,16 @@ sections:
   - block: experience
     content:
       title: Research & Teaching Experience
-      subtitle: Developed a strong background in research and studying developmental psychology
+      subtitle: |2-
+        Developed a strong background in research and studying developmental psychology.
+        
+        * Managed multiple concurrent market research projects 
+        * Created a new-in-kind research product
+        * Processed & analyzed qualitative & quantitative data
+        * Trained & led a team of RAs in completing an undergraduate research project
+        * Provided class support, graded papers, & presented a lecture on developmental psychology
+      
+      
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -53,18 +62,11 @@ sections:
       subtitle: |2-
         Worked with youth aged 2- to 15-years-old across educational and therapeutic contexts.
         
-        * Learned how to provide classroom support
-        * Facilitated socio-emotional learning
+        * Provided classroom support
+        * Facilitated socio-emotional learning 
         * Guided instructional activities in reading, writing, logic, & math
         * Implemented early intervention services & behavioral management
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Instructional Aide
           company: San Luis Coastal Unified School District
@@ -99,15 +101,14 @@ sections:
   - block: experience
     content:
       title: Social Systems Experience
-      subtitle: Worked in contexts where social and economic institutions intersect with people's everyday lives
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      subtitle: |2-
+        Worked in contexts where social and economic institutions intersect with people's everyday lives
+
+        * Worked one-on-one with low-income families to file federal & state tax returns
+        * Participated in one of the largest survey data collection efforts in the U.S.
+        * Connected survivors of domestic violence to legal & victim advocates
+        * Conducted research on barriers in access to childcare subsidies among low-income families
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Volunteer Income Tax Assitance (VITA) Volunteer
           company: United Way
