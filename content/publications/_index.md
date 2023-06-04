@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: CV & Publications
 cms_exclude: true
 
 # View.
@@ -14,3 +14,9 @@ header:
   caption: ''
   image: ''
 ---
+
+## Curriculum Vitae
+
+Within my curriculum vitae, my educational background, academic, professional, and extracurricular history are listed. {{% staticref "uploads/resume.pdf" %}}Open my CV here.{{% /staticref %}}
+
+## Publications

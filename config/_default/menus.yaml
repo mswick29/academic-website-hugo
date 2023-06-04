@@ -10,7 +10,7 @@ main:
   - name: Research
     url: 'research/'
     weight: 20
-  - name: Publications
+  - name: CV & Publications
     url: 'publications/'
     weight: 30   
   - name: Writings
@@ -18,9 +18,6 @@ main:
     weight: 40    
   - name: Contact
     url: '#contact'
-    weight: 60
-  - name: CV
-    url: uploads/resume.pdf
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
