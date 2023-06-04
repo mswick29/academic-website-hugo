@@ -15,8 +15,8 @@ header:
   image: ''
 ---
 
-# Curriculum Vitae
+## Curriculum Vitae
 
-Within [my curriculum vitae] ({{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}), my educational background, academic, professional, and extracurricular history are listed.
+Within my curriculum vitae, my educational background, academic, professional, and extracurricular history are listed. {{% staticref "uploads/resume.pdf" %}}Open my CV here.{{% /staticref %}}
 
-# Publications
+## Publications
