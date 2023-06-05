@@ -1,14 +1,14 @@
 ---
-title: Research Interests
+title: Introduction
 
 date: 2023-06-04
 type: book
-weight: 10
+weight: 20
 
 ---
 
 
-> *"The more you know yourself, the more patience you have for what you see in others".*  **- Erik H. Erikson**
+> *"The more you know yourself, the more patience you have for what you see in others".*  **Erik H. Erikson**
 
 
 ## A Series of Reasonable Thoughts
@@ -29,7 +29,7 @@ Now, consider how these responses may differ if you were to ask your closest fri
 This thought experiment may turn into a celebration of common ground... or illuminate key differences in how we all come to understand morality and what it means to be a good person.
 
 
-## Translating Into Research
+## Where to Begin as a Researcher?
 I aim to contribute to the ever-evolving field of psychology by seeking out how processes within moral development are understood and can be studied. With the previous section in mind, my research interests are rooted in the following questions:
 
 - How do we come to understand ourselves and others as moral persons?
@@ -55,5 +55,3 @@ I aim to contribute to the ever-evolving field of psychology by seeking out how 
 Further in this section, my research interests are presented in a fashion much like that of a typical research paper, from an introduction on core topics I'm interested in to avenues to exploring these topics and the considerations and challenges that go alongside them.
 
 While I am at the start of my academic career, you can access my prior undergraduate work in childcare policy and subjective interpretation in the [publications section](/publications/).
-
----
