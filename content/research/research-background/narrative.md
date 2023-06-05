@@ -6,4 +6,4 @@ type: book
 weight: 25
 
 ---
-brief overview of narrative identity
+brief overview of narrative identity - include in research background

@@ -1,8 +1,7 @@
 ---
-title: Background 101
+title: Research Backdrop
 
 # title for the menu link if I want a shorter link title
-# linktitle:
 
 summary: To know the direction of my research, it's best to know the academic context wherein I had my first bout of training.
 
