@@ -1,5 +1,5 @@
 ---
-title: My Research Origins
+title: My (Research) Origin Story
 
 # title for the menu link if I want a shorter link title
 # linktitle:
@@ -13,7 +13,7 @@ type: book
 
 # position of this page in the menu, remove the option to sort alphabetically.
 
-weight: 20
+weight: 30
 
 ---
 
