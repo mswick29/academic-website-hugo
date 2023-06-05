@@ -41,7 +41,7 @@ I aim to contribute to the ever-evolving field of psychology by seeking out how 
 - How does the understanding of ourselves and others as moral persons inform broader identity development?
 
 
-## Why Dedicate A Career to This Topic?
+## Why Dedicate a Career to This Topic?
 
 1. Application
 
