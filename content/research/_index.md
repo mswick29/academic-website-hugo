@@ -15,7 +15,7 @@ header:
 ---
 
 
-*"The more you know yourself, the more patience you have for what you see in others".*  **-Erik H. Erikson**
+> *"The more you know yourself, the more patience you have for what you see in others".*  **- Erik H. Erikson**
 
 
 ## A Series of Reasonable Thoughts
@@ -36,16 +36,25 @@ Now, consider how these responses may differ if you were to ask your closest fri
 This thought experiment may turn into a celebration of common ground... or illuminate key differences in how we all come to understand morality and what it means to be a good person.
 
 
-## Translating Into Research Questions
-I aim to contribute to the ever-evolving field of psychology by seeking out how processes within moral development are understood and studied. With the previous section in mind, my research interests are rooted in the following questions:
+## Translating Into Research
+I aim to contribute to the ever-evolving field of psychology by seeking out how processes within moral development are understood and can be studied. With the previous section in mind, my research interests are rooted in the following questions:
 
-1. How do we come to understand ourselves and others as moral persons?
+- How do we come to understand ourselves and others as moral persons?
 
-2. What processes underlie the development of our understanding of ourselves and others as moral persons?
+- What processes underlie the development of our understanding of ourselves and others as moral persons?
 
-3. How does our understanding of ourselves and others as moral persons shift from social contexts, relational contexts, and major developmental periods?
+- How does our understanding of ourselves and others as moral persons shift from social contexts, relational contexts, and major developmental periods?
 
-4. How does the understanding of ourselves and others as moral persons inform broader identity development?
+- How does the understanding of ourselves and others as moral persons inform broader identity development?
+
+
+## Why Dedicate A Career to This Topic?
+
+1. Application
+
+2. Methodology
+
+3. Theory
 
 
 ## Curious? Keep Reading.
@@ -54,14 +63,4 @@ Further in this section, my research interests are presented in a fashion much l
 
 While I am at the start of my academic career, you can access my prior undergraduate work in childcare policy and subjective interpretation in the [publications section](/publications/).
 
-# Research Foundation
-
-My research background ranges from strictly psychological roots to  narrative identity to socio-emotional development to federal policy and talent acquisition market research.
-
 ---
-
-## Why Dedicate A Career to This Topic?
-
-- business case, will need some citations
-
-- how it relates to our broader identity
