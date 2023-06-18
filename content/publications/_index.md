@@ -17,6 +17,6 @@ header:
 
 ## Curriculum Vitae
 
-{{% staticref "uploads/resume.pdf" "newtab" %}}Click here to open my CV. Within lies a deeper dive into my educational background, academic, professional, and extracurricular history. Happy scrolling!{{% /staticref %}}
+{{% staticref "uploads/resume.pdf" "newtab" %}}Click here to open my CV.{{% /staticref %}} Within lies a deeper dive into my educational background, academic, professional, and extracurricular history. Happy scrolling!
 
 ## Publications
