@@ -26,6 +26,6 @@ In this chapter, I will be outlining key concepts I've learned throughout my und
 
 ### Narrative Psychology
 {{< spoiler text="Tell me about this topic" >}}
-Deep dive
+Additional information to be added as I continue to build out this site!
 {{< /spoiler >}}
 
