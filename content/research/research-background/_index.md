@@ -1,8 +1,8 @@
 ---
-title: "Setting the Stage: The Backdrop of My Research Career"
+title: The Backdrop of My Research Career
 
 # title for the menu link if I want a shorter link title
-linktitle: Setting the Stage
+linktitle: Research Backdrop
 
 summary: To know the direction my research will take, it's best to know the academic and professional conditions wherein I had my first bout of training.
 
@@ -24,4 +24,4 @@ This exposure to a rich variety of subjects was due to a mix of self-exploration
 
 In this chapter, I will be outlining key concepts I've learned throughout my undergraduate experience up until I began my graduate school career. Click through each section below or to the left for an overview of relevant research and resources.
 
-1. [Narrative Psychology? Tell me about it.]({{<ref"research-background/narrative.md">}})
+1. [Narrative Psychology? Tell me about it.]({{<ref"research/research-background/narrative.md">}})
