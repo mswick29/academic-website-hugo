@@ -24,4 +24,6 @@ This exposure to a rich variety of subjects was due to a mix of self-exploration
 
 In this chapter, I will be outlining key concepts I've learned throughout my undergraduate experience up until I began my graduate school career. Click through each section below or to the left for an overview of relevant research and resources.
 
-1. [Narrative Psychology? Tell me about it.]({{<ref"research/research-background/narrative.md">}})
+{{< spoiler text="Narrative Psychology" >}}
+Deep dive
+{{< /spoiler >}}
