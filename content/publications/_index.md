@@ -17,6 +17,6 @@ header:
 
 ## Curriculum Vitae
 
-Within my curriculum vitae, my educational background, academic, professional, and extracurricular history are listed. {{% staticref "uploads/resume.pdf" %}}Open my CV here.{{% /staticref %}}
+{{% staticref "uploads/resume.pdf" %}}Click here to open my CV. Within lies a deeper dive into my educational background, academic, professional, and extracurricular history. Happy scrolling!{{% /staticref %}}
 
 ## Publications

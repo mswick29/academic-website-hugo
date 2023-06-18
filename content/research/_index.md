@@ -11,7 +11,7 @@ weight: 20
 > *"The more you know yourself, the more patience you have for what you see in others".*  **Erik H. Erikson**
 
 
-## A Series of Reasonable Thoughts
+## Providing the Framework: A Hop, Skip, & Jump
 Sometimes the questions worth asking are the ones to which we think we already know the answer. Let's explore the ones below:
 
 * Do you still believe you are a good person even when you don't make good choices all of the time? 
