@@ -4,23 +4,23 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#466365" # dark green
+  primary = "#F39237" # orange
 
   primary_light = "#D8F793" # lime green
 
-  primary_dark = "#192324" # very dark red 
+  primary_dark = "#2A3B3C" # very dark green 
 
   # Menu
-  menu_primary = "#BAA5FF" # lavender
+  menu_primary = "#D8F793" # lime green
   menu_text = "#FFFFFF" # white
-  menu_text_active = "#C4C6E7" # light gray purple
+  menu_text_active = "#466365" # dark green
   menu_title = "#FFFFFF" # white
 
   # Home sections
   background = "#FFFFFF" # white
   home_section_odd = "#FFFFFF" # white
-  home_section_even = "#F39237" # orange
+  home_section_even = "#C4C6E7" # light gray purple
 
   #Links
-  link = "#D8F793" # lime green
-  link_hover = "#C4C6E7" # light gray purple
+  link = "#F39237" # orange
+  link_hover = "#4B6A6C" # dark green
