@@ -4,23 +4,23 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#BF211E" # turkey red
+  primary = "#466365" # dark green
 
-  primary_light = "#BBE4F1" # light blue
+  primary_light = "#D8F793" # lime green
 
-  primary_dark = "#5F0707" # rosewood 
+  primary_dark = "#192324" # very dark red 
 
   # Menu
-  menu_primary = "#6798c0" # Blue gray
-  menu_text = "#F7F7F7" # off white
-  menu_text_active = "#F4A259" # light orange
-  menu_title = "#F7F7F7" # off white
+  menu_primary = "#BAA5FF" # lavender
+  menu_text = "#FFFFFF" # white
+  menu_text_active = "#C4C6E7" # light gray purple
+  menu_title = "#FFFFFF" # white
 
   # Home sections
-  background = "#FFF5D6" # cornsilk
-  home_section_odd = "#FFF5D6" # cornsilk
-  home_section_even = "#FEE286" # jasmine
+  background = "#FFFFFF" # white
+  home_section_odd = "#FFFFFF" # white
+  home_section_even = "#F39237" # orange
 
   #Links
-  link = "#BF211E" # turkey red
-  link_hover = "#F4A259" # light orange
+  link = "#D8F793" # lime green
+  link_hover = "#C4C6E7" # light gray purple
