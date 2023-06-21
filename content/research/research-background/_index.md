@@ -34,14 +34,14 @@ Additional information to be added as I continue to build out this site!
 {{< /spoiler >}}
 
 ### Narrative Psychology & Identity
-{{< spoiler text="*Overview*" >}}
+{{< spoiler text="***Overview***" >}}
 **Narrative psychology** is centered around storytelling in three ways: (1) as a tool in gathering rich data, (2) as a conceptual framework for understanding the human condition, and (3) as an mechanism involved in numerous developmental, personality, and memory processes (Adler et al. 2017; American Psychological Association, n.d.). For an engaging, easy-to-digest article on narratives, [check this link here](https://www.apa.org/monitor/2011/01/stories).
 
 
-Introducing the idea of narrative as a scientific approach can be met with hesitance by some, whether it's rooted in fear or dismay of leveraging "subjectivity". Stories and memories are inherently imbued with some degree of subjectivity, that is a fair enough claim. However, the account and meaning we derive from any event or series of events (past, present, or future) and *how we communicate and process those understandings* can have concrete, objective impacts on ourselves and the world around us (Adler et al., 2017). Past narrative research has explored well-being, emotion regulation, conflict, interpersonal relationships, and more, all of which play major roles in the human experience (Adler et al., 2017; McLean et al., 2020; Baumeister, Stillwell, & Wotman, 1990).
+Introducing the idea of narrative as a scientific approach can be met with hesitance by some. Whether the concern is rooted in fear or dismay, it usually circles back to wariness of the use of "subjectivity" in research. Stories and memories are inherently imbued with some degree of subjectivity, that is a fair enough claim. However, the account and meaning we derive from any event or series of events (past, present, or future) and *how we communicate and process those understandings* can have concrete, objective impacts on ourselves and the world around us (Adler et al., 2017). Past narrative research has explored well-being, emotion regulation, conflict, interpersonal relationships, and more, all of which play major roles in the human experience (Adler et al., 2017; McLean et al., 2020; Baumeister, Stillwell, & Wotman, 1990). Additionally, quantitative methodology has evolved alongside narrative psychology, which allows for robust analytics to extract rich findings and complexities within narrative research.
+{{< /spoiler >}}
 
-
-#### References
+{{< spoiler text="***References***" >}}
 - Adler, J. M., Dunlop, W. L., Fivush, R., Lilgendahl, J. P., Lodi-Smith, J., McAdams, D. P., McLean, K. C., Pasupathi, M., & Syed, M. (2017). Research methods for studying narrative identity: A primer. *Social Psychological and Personality Science, 8*(5), 519-527. https://doi.org/10.1177/1948550617698202
 - American Psychological Association. (n.d). Narrative psychology. In *APA dictionary of psychology*. Retrieved June 20, 2023, from https://dictionary.apa.org/narrative-psychology
 - McLean, K. C., Syed, M., Pasupathi, M., Adler, J. M., Dunlop, W. L., Drustrup, D., Fivush, R., Graci, M. E., Lilgendahl, J. P., Lodi-Smith, J., McAdams, D. P., & McCoy, T. P. (2020). The empirical structure of narrative identity: The initial big three. *Journal of Personality and Social Psychology, 119*(4), 920-944. http://dx.doi.org/10.1037/pspp0000247
