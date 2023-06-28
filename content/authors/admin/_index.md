@@ -77,6 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my personal site! I am an incoming PhD student to the Mind & Emotions Lab at the University of California, Davis. As my academic career takes shape, so should this site! Feel free to peruse my posts, review my experience, and reach out with any questions.
+Welcome to my personal site! I am an incoming PhD student to the [Mind & Emotions Lab](https://mindemotiondevelopmentlab.ucdavis.edu/) at the University of California, Davis. As my academic career takes shape, so should this site! Feel free to peruse my posts, review my experience, and reach out with any questions.
 
 {style="text-align: justify;"}
