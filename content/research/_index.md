@@ -43,7 +43,7 @@ I aim to contribute to the ever-evolving field of psychology by seeking out how 
 
 ## Why Dedicate a Career to This Topic?
 
-### Applied Value
+#### Applied Value
 Discussing what it means to be a good person doesn't have to be left to moral philosophers and scholars. Considerations for what it takes to be a good person and how we understand ourselves and others as persons capable of making moral decisions 
 
 {{< spoiler text="***Business & Ethics***" >}}
@@ -63,12 +63,12 @@ Additional information to be added as I continue to build out this site! Will di
 {{< /spoiler >}}
 
 
-### Opportunity for Methodological Innovation
+#### Opportunity for Methodological Innovation
 
-### Step in the Right (Research) Direction
+#### Step in the Right (Research) Direction
 The field of moral development will always have room to grow in its theory development. We are less than one hundred years since the Cognitive Revolution and the expansion of developmental studies in the mid-twentieth century (Dixon, 2001; [Miller, 2003](https://www.cs.princeton.edu/~rit/geo/Miller.pdf)). Historical theories on moral development from Jean Piaget and Lawrence Kohlberg are still of interest to some, but there have been monumental waves in moral development research in the late twentieth and early twenty-first century and exciting new research directions are on the rise. Ranging from new theories and concepts (e.g., Social Domain Theory, moral agency, moral identity, etc.) to the rise of notable moral developmentalists in the public eye (e.g. Carol Gilligan and Paul Bloom) and less public (but just as important, or even more so) developmentalists (e.g., Melanie Killen, Elliot Turiel, and many more), moral development as a field of study has expanded its scope and impact. This is an area ripe for growth while in need of adapting to the quick advances in quantitative methods and technology taking on the social sciences more broadly.
 
-### Privilge & Gratitude
+#### Privilege & Gratitude
 Last, but not least, it is a great privilege to pursue a higher education degree wherein I can advance our knowledge of developmental psychology. Many great, contempary scientists are ultimately pushed to leave academia, either due to financial, cultural, personal, or other professional considerations. The time I spend studying moral development, I plan to leave a mark and to learn all that I can with the time and privilege I have. 
 
 ## Curious? Keep Reading.
