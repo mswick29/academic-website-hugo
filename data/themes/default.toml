@@ -4,7 +4,7 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#AA130E" # persian red
+  primary = "#363845" # persian red
 
   primary_light = "#F7F7F7" # offwhite
 
@@ -13,7 +13,7 @@ name = "default"
   # Menu
   menu_primary = "#30343F" # gunmetal
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#AA130E" # persian red
+  menu_text_active = "#a7aaba" # grey
   menu_title = "#F7F7F7" # off white
 
   # Home sections
@@ -22,5 +22,5 @@ name = "default"
   home_section_even = "#FFEBAD" # vanilla
 
   #Links
-  link = "#AA130E" # persian red
+  link = "#a7aaba" # grey
   link_hover = "#363845" # gunmetal
