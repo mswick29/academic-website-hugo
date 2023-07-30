@@ -13,8 +13,8 @@ sections:
       username: admin
     design:
       background:
-        gradient_start: '#F9FEFF'
-        gradient_end: '#D5E8EC'
+        gradient_start: '#FFFAEB'
+        gradient_end: '#FFEBAD'
         gradient_angle: 180
   - block: experience
     content:
@@ -62,8 +62,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FFFAEB'
-        gradient_end: '#FFEBAD'
+        gradient_start: '#FFEBAD'
+        gradient_end: '#E4E8F6'
         gradient_angle: 180
   - block: experience
     content:
@@ -108,7 +108,7 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F9FEFF'
+        gradient_start: '#E4E8F6'
         gradient_end: '#D5E8EC'
         gradient_angle: 180
   - block: experience
@@ -154,8 +154,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FFFAEB'
-        gradient_end: '#FFEBAD'
+        gradient_start: '#D5E8EC'
+        gradient_end: '#FFFAEB'
         gradient_angle: 180
   - block: features
     content:
@@ -173,6 +173,11 @@ sections:
           description: ''
           icon: clipboard
           icon_pack: fas
+    design:
+      background:
+        gradient_start: '#FFFAEB'
+        gradient_end: '#FFEBAD'
+        gradient_angle: 180 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -224,8 +229,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F9FEFF'
-        gradient_end: '#D5E8EC'
+        gradient_start: '#FFEBAD'
+        gradient_end: '#E4E8F6'
         gradient_angle: 180
   - block: contact
     id: contact
@@ -258,6 +263,8 @@ sections:
           captcha: true
     design:
       columns: '2'
+      background:
+        color: '#E4E8F6'
 
 ---
 #All hidden blocks - here for future use:
