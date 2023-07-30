@@ -4,7 +4,7 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#B7E1E1" # azure
+  primary = "#BA3B46" # cardinal red
 
   primary_light = "#F7F7F7" # offwhite
 
@@ -13,14 +13,14 @@ name = "default"
   # Menu
   menu_primary = "#30343F" # gunmetal
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#BA3B46" # cardinal red
+  menu_text_active = "#E2A2A7" # cherry blossom pink
   menu_title = "#F7F7F7" # off white
 
   # Home sections
-  background = "#E2F3F3" # light azure
+  background = "#F1F9F9" # super light azure
   home_section_odd = "#E2F3F3" # light azure
-  home_section_even = "#BA3B46" # cardinal red
+  home_section_even = "#E2A2A7" # cherry blossom pink
 
   #Links
-  link = "#B18FCF" # african violet
-  link_hover = "#BA3B46" # cardinal red
+  link = "#BA3B46" # cardinal red
+  link_hover = "#969BD0" # gray
