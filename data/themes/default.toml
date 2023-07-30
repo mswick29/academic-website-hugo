@@ -13,7 +13,7 @@ name = "default"
   # Menu
   menu_primary = "#30343F" # gunmetal
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#a7aaba" # grey
+  menu_text_active = "#676c84" # grey
   menu_title = "#F7F7F7" # off white
 
   # Home sections
@@ -22,5 +22,5 @@ name = "default"
   home_section_even = "#FFEBAD" # vanilla
 
   #Links
-  link = "#a7aaba" # grey
+  link = "#676c84" # grey
   link_hover = "#363845" # gunmetal
