@@ -4,7 +4,7 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#EE6C4D" # burnt sienna
+  primary = "#AA130E" # persian red
 
   primary_light = "#F7F7F7" # offwhite
 
@@ -13,14 +13,14 @@ name = "default"
   # Menu
   menu_primary = "#30343F" # gunmetal
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#EE6C4D" # burnt sienna
+  menu_text_active = "#AA130E" # persian red
   menu_title = "#F7F7F7" # off white
 
   # Home sections
-  background = "#F9FEFF" # v light blue if that
+  background = "#FFFAEB" # vanilla
   home_section_odd = "#F9FEFF" # v light blue if that
   home_section_even = "#FFEBAD" # vanilla
 
   #Links
-  link = "#EE6C4D" # burnt sienna
+  link = "#AA130E" # persian red
   link_hover = "#363845" # gunmetal
