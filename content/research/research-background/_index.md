@@ -19,6 +19,8 @@ weight: 20
 
 *To know the direction my research will take, it's best to know the academic and professional conditions I was exposed in my early career.*
 
+---
+
 My research background ranges from strictly academic, studying topics such as narrative identity and socio-emotional development, to heavily applied contexts, including federal policy and talent acquisition market research. This exposure to a rich variety of subjects was due to a mix of self-exploration and determination to gain "real world" experience as a future academic researcher. To begin an intensive career in psychology research, it is important to have a thorough understanding of the critical contexts of which human development occurs in. This belief is the north star to which I align my research goals. 
 
 In this section, I will be outlining key concepts I've learned throughout my undergraduate experience up until I began my graduate school career. Click through each drop-down below for an overview of relevant research and resources.
