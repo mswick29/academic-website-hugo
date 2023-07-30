@@ -11,6 +11,11 @@ sections:
       title: Hi there!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      background:
+        gradient_start: '#FFFAEB'
+        gradient_end: '#FFEBAD'
+        gradient_angle: 180
   - block: experience
     content:
       title: Research & Teaching Experience
@@ -56,6 +61,10 @@ sections:
           description: ''
     design:
       columns: '2'
+      background:
+        gradient_start: '#FFEBAD'
+        gradient_end: '#E4E8F6'
+        gradient_angle: 180
   - block: experience
     content:
       title: Applied Developmental Experience
@@ -98,6 +107,10 @@ sections:
           description: ''
     design:
       columns: '2'
+      background:
+        gradient_start: '#E4E8F6'
+        gradient_end: '#D5E8EC'
+        gradient_angle: 180
   - block: experience
     content:
       title: Social Systems Experience
@@ -140,6 +153,10 @@ sections:
           description: ''
     design:
       columns: '2'
+      background:
+        gradient_start: '#D5E8EC'
+        gradient_end: '#FFFAEB'
+        gradient_angle: 180
   - block: features
     content:
       title: What I've Learned #add in overview or more skills, see if two rows is possible
@@ -156,6 +173,11 @@ sections:
           description: ''
           icon: clipboard
           icon_pack: fas
+    design:
+      background:
+        gradient_start: '#FFFAEB'
+        gradient_end: '#FFEBAD'
+        gradient_angle: 180 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -206,6 +228,10 @@ sections:
           url: 'https://csbs.utah.edu/students/solutions-scholars.php'
     design:
       columns: '2'
+      background:
+        gradient_start: '#FFEBAD'
+        gradient_end: '#E4E8F6'
+        gradient_angle: 180
   - block: contact
     id: contact
     content:
@@ -237,6 +263,8 @@ sections:
           captcha: true
     design:
       columns: '2'
+      background:
+        color: '#E4E8F6'
 
 ---
 #All hidden blocks - here for future use:
