@@ -30,8 +30,17 @@ Additional information to be added as I continue to build out this site!
 
 ### Dynamical Systems
 {{< spoiler text="*Overview*" >}}
-Additional information to be added as I continue to build out this site!
+In the midst of finishing up my first graduate course in quantitative methods, my then professor advertised for a course he was teaching the following semester. It was called, “Dynamical Systems Theory”, and, as [Jonathan Butner](https://psych.utah.edu/people/faculty/butner-jonathan.php) described it, if we enjoyed this quant class, we’ll probably enjoy this new course. It wasn’t taught frequently, and so this was likely my only chance to be exposed to the topic in a classroom setting. After the announcement, I was convinced this was the next step in deepening my understanding of quantitative methods as an undergraduate.
+
+In spite of the onset of a worldwide pandemic, I learned a great deal about dynamical systems theory in spring of 2020([see here for class syllabus](https://psych.utah.edu/_resources/documents/people/systems-course-syllabus-2020.pdf)). Dynamical systems theory incorporates time and space in its modeling of complex phenomena, or more specifically, phenomena which emerges from an interaction of lower order parts.
+
+For a more thorough introduction to the core concepts of dynamical systems theory, check out this [webpage here](https://content.csbs.utah.edu/~butner/systems/DynamicalSystemsIntro.html). For topical information related to developmental psychology, I would direct readers first to the key figures who made the initial bridge between developmental psychology and DST, Drs. Esther Thelen and Linda B. Smith. Their work centered around biological self-organization ([Thelen & Smith, 2007](https://cogdev.sitehost.iu.edu/labwork/handbook.pdf)) and infant development.
 {{< /spoiler >}}
+
+{{< spoiler text="***References***" >}}
+- Thelen, E. & Smith, L. B. (2007). Dynamic systems theories. In W. Damon & R. M. Lerner (Eds.), *Handbook of Child Psychology* (pp. 258-312). John Wiley & Sons, Inc. https://doi.org/10.1002/9780470147658.chpsy0106
+{{< /spoiler >}}
+
 
 ### Narrative Psychology & Identity
 {{< spoiler text="***Overview***" >}}
