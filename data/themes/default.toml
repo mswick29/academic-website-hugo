@@ -13,14 +13,14 @@ name = "default"
   # Menu
   menu_primary = "#30343F" # gunmetal
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#FFE085" # jasmine yellow
+  menu_text_active = "#EE6C4D" # burnt sienna
   menu_title = "#F7F7F7" # off white
 
   # Home sections
-  background = "#E6F3F6" # v light blue if that
-  home_section_odd = "#E6F3F6" # light azure
-  home_section_even = "#FFE085" # jasmine yellow
+  background = "#F9FEFF" # v light blue if that
+  home_section_odd = "#F9FEFF" # v light blue if that
+  home_section_even = "#FFEBAD" # vanilla
 
   #Links
   link = "#EE6C4D" # burnt sienna
-  link_hover = "#969BD0" # gray
+  link_hover = "#363845" # gunmetal
