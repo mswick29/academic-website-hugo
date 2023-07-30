@@ -4,23 +4,23 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#BA3B46" # cardinal red
+  primary = "#EE6C4D" # burnt sienna
 
   primary_light = "#F7F7F7" # offwhite
 
-  primary_dark = "#30343F" # gunmetal 
+  primary_dark = "#121317" # night 
 
   # Menu
   menu_primary = "#30343F" # gunmetal
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#E2A2A7" # cherry blossom pink
+  menu_text_active = "#FFE085" # jasmine yellow
   menu_title = "#F7F7F7" # off white
 
   # Home sections
-  background = "#F1F9F9" # super light azure
-  home_section_odd = "#E2F3F3" # light azure
-  home_section_even = "#E2A2A7" # cherry blossom pink
+  background = "#E6F3F6" # v light blue if that
+  home_section_odd = "#E6F3F6" # light azure
+  home_section_even = "#FFE085" # jasmine yellow
 
   #Links
-  link = "#BA3B46" # cardinal red
+  link = "#EE6C4D" # burnt sienna
   link_hover = "#969BD0" # gray
