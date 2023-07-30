@@ -13,7 +13,7 @@ name = "default"
   # Menu
   menu_primary = "#30343F" # gunmetal
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#AA130E" # persian red
+  menu_text_active = "#C25B60" # lighter red
   menu_title = "#F7F7F7" # off white
 
   # Home sections
