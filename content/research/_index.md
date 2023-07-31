@@ -54,7 +54,7 @@ However, the scientific study of moral development is still in its early phases.
 {{< /spoiler >}}
 
 {{< spoiler text="**Privilege & Gratitude**" >}}
-Last, but not least, it is a great privilege to pursue a higher education degree wherein I can advance our knowledge of developmental psychology. Many great, contempary scientists are ultimately pushed to leave academia, either due to financial, cultural, personal, or other professional considerations. The time I spend studying moral development, I plan to leave a mark and to learn all that I can with the time and privilege I have. 
+Last, but not least, it is a great privilege to pursue a higher education degree wherein I can advance our knowledge of developmental psychology. Many great, contemporary scientists are ultimately pushed to leave academia, either due to financial, cultural, personal, or other professional considerations. The time I spend studying moral development, I plan to leave a mark and to learn all that I can with the time and privilege I have. 
 {{< /spoiler >}}
 
 ## Curious? Keep Reading.
