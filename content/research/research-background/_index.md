@@ -67,5 +67,9 @@ Additional information to be added as I continue to build out this site!
 
 ### Economic Trends & Labor Market Mobility
 {{< spoiler text="**Overview**" >}}
-Additional information to be added as I continue to build out this site!
+Prior to returning to academia, I worked full-time for a little over a year and a half at a market research specializing in talent acquisition intelligence. As a entry-level worker, this was an excellent opportunity to grow professionally while applying my existing research skills in an industry job. My role entailed interweaving proprietary market research data and publicly available labor market data to provide insights on niche job seeker preferences and trends. 
+
+For publicly available data, the [Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Census Bureau](https://www.census.gov/) are excellent sources for economic-related and population data and statistics. When reading popular news media’s monthly reports on unemployment or job openings, the two afore-mentioned sources are typically what they’re referencing. These two sites house large amounts of data, and various surveys for data collection are managed across numerous governmental teams. As a natural consequence, this can make finding relevant data for your research task a daunting process.
+
+I speak of the intricacies of navigating publicly available data because knowing where to identify key sources of raw data can be an incredibly powerful first step in researching important economic trends. Once located, understanding the methodology, frequency of data collection, and structure of the publicly available dataset can equip you to adequately analyze the data. With this skillset, you can become an expert on economic topics that are oftentimes only loosely understood in the public discourse.
 {{< /spoiler >}}
