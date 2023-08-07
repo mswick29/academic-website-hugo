@@ -68,7 +68,3 @@ For publicly available data, the [Bureau of Labor Statistics](https://www.bls.go
 I speak of the intricacies of navigating publicly available data because knowing where to identify key sources of raw data can be an incredibly powerful first step in researching important economic trends. Once located, understanding the methodology, frequency of data collection, and structure of the publicly available dataset can equip you to adequately analyze the data. With this skillset, you can become an expert on economic topics that are oftentimes only loosely understood in the public discourse.
 {{< /spoiler >}}
 
-### Social Justice
-{{< spoiler text="**Overview**" >}}
-Additional information to be added as I continue to build out this site!
-{{< /spoiler >}}
