@@ -11,7 +11,7 @@ name = "default"
   primary_dark = "#121317" # night 
 
   # Menu
-  menu_primary = "#2C1A1D" # licorice
+  menu_primary = "#1A0F10" # deep licorice
   menu_text = "#FEF4EC" # vanilla
   menu_text_active = "#F4A259" # orange
   menu_title = "#FEF4EC" # vanilla
@@ -22,5 +22,5 @@ name = "default"
   home_section_even = "#FEF4EC" # vanilla
 
   #Links
-  link = "#3F334D" # eggplant
-  link_hover = "#BC4B51" # bittersweet red
+  link = "#BC4B51" # bittersweet red
+  link_hover = "#65527A" # deep purple
