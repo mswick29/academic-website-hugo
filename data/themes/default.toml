@@ -11,9 +11,9 @@ name = "default"
   primary_dark = "#121317" # night 
 
   # Menu
-  menu_primary = "#30343F" # gunmetal
+  menu_primary = "#320B12" # blackbean
   menu_text = "#F7F7F7" # off white
-  menu_text_active = "#676c84" # grey
+  menu_text_active = "#C4D7F2" # columbia blue
   menu_title = "#F7F7F7" # off white
 
   # Home sections
@@ -22,5 +22,5 @@ name = "default"
   home_section_even = "#FFEBAD" # vanilla
 
   #Links
-  link = "#676c84" # grey
-  link_hover = "#363845" # gunmetal
+  link = "#C4D7F2" # columbia blue
+  link_hover = "#320B12" # blackbean

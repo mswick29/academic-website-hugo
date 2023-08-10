@@ -14,7 +14,7 @@ sections:
     design:
       background:
         gradient_start: '#FFFAEB'
-        gradient_end: '#FFEBAD'
+        gradient_end: '#FFF1C2'
         gradient_angle: 180
   - block: experience
     content:
@@ -62,8 +62,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FFEBAD'
-        gradient_end: '#E4E8F6'
+        gradient_start: '#FFF1C2'
+        gradient_end: '#E4B9B4'
         gradient_angle: 180
   - block: experience
     content:
@@ -108,8 +108,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#E4E8F6'
-        gradient_end: '#D5E8EC'
+        gradient_start: '#E4B9B4'
+        gradient_end: '#D8DDCF'
         gradient_angle: 180
   - block: experience
     content:
@@ -154,7 +154,7 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#D5E8EC'
+        gradient_start: '#D8DDCF'
         gradient_end: '#FFFAEB'
         gradient_angle: 180
   - block: features
@@ -188,7 +188,7 @@ sections:
     design:
       background:
         gradient_start: '#FFFAEB'
-        gradient_end: '#FFEBAD'
+        gradient_end: '#FFF1C2'
         gradient_angle: 180 
   - block: accomplishments
     content:
@@ -241,8 +241,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FFEBAD'
-        gradient_end: '#E4E8F6'
+        gradient_start: '#FFF1C2'
+        gradient_end: '#E4B9B4'
         gradient_angle: 180
   - block: contact
     id: contact
@@ -276,7 +276,9 @@ sections:
     design:
       columns: '2'
       background:
-        color: '#E4E8F6'
+        gradient_start: '#E4B9B4'
+        gradient_end: '#FFFAEB'
+        gradient_angle: 180
 
 ---
 #All hidden blocks - here for future use:
