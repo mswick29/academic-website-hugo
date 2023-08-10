@@ -13,8 +13,8 @@ sections:
       username: admin
     design:
       background:
-        gradient_start: '#FFFAEB'
-        gradient_end: '#FFEBAD'
+        gradient_start: '#FEF4EC' # vanilla
+        gradient_end: '#F9D6B3' # light orange
         gradient_angle: 180
   - block: experience
     content:
@@ -62,8 +62,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FFEBAD'
-        gradient_end: '#E4E8F6'
+        gradient_start: '#F9D6B3' # light orange
+        gradient_end: '#F2F8F6' # mint cream
         gradient_angle: 180
   - block: experience
     content:
@@ -108,8 +108,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#E4E8F6'
-        gradient_end: '#D5E8EC'
+        gradient_start: '#F2F8F6' # mint cream
+        gradient_end: '#CAE2DA' # light mint
         gradient_angle: 180
   - block: experience
     content:
@@ -154,8 +154,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#D5E8EC'
-        gradient_end: '#FFFAEB'
+        gradient_start: '#CAE2DA' # light mint
+        gradient_end: '#FEF4EC' # vanilla
         gradient_angle: 180
   - block: features
     content:
@@ -187,8 +187,8 @@ sections:
           icon_pack: fas
     design:
       background:
-        gradient_start: '#FFFAEB'
-        gradient_end: '#FFEBAD'
+        gradient_start: '#FEF4EC' # vanilla
+        gradient_end: '#F9D6B3' # light orange
         gradient_angle: 180 
   - block: accomplishments
     content:
@@ -241,8 +241,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FFEBAD'
-        gradient_end: '#E4E8F6'
+        gradient_start: '#F9D6B3' # light orange
+        gradient_end: '#F2F8F6' # mint cream
         gradient_angle: 180
   - block: contact
     id: contact
@@ -276,7 +276,9 @@ sections:
     design:
       columns: '2'
       background:
-        color: '#E4E8F6'
+        gradient_start: '#F2F8F6' # mint cream
+        gradient_end: '#CAE2DA' # light mint
+        gradient_angle: 180 
 
 ---
 #All hidden blocks - here for future use:
