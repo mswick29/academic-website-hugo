@@ -14,7 +14,7 @@ sections:
     design:
       background:
         gradient_start: '#FEF4EC' # vanilla
-        gradient_end: '#F9D6B3' # light orange
+        gradient_end: '#FAE0C6' # almond
         gradient_angle: 180
   - block: experience
     content:
@@ -62,8 +62,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F9D6B3' # light orange
-        gradient_end: '#F2F8F6' # mint cream
+        gradient_start: '#FAE0C6' # almond
+        gradient_end: '#F5F3F7' # ghost white
         gradient_angle: 180
   - block: experience
     content:
@@ -108,8 +108,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F2F8F6' # mint cream
-        gradient_end: '#CAE2DA' # light mint
+        gradient_start: '#F5F3F7' # ghost white
+        gradient_end: '#E0DAE7' # lavender
         gradient_angle: 180
   - block: experience
     content:
@@ -154,8 +154,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#CAE2DA' # light mint
-        gradient_end: '#FEF4EC' # vanilla
+        gradient_start: '#E0DAE7' # lavender
+        gradient_end: '#D8E9E3' # mint cream
         gradient_angle: 180
   - block: features
     content:
@@ -187,8 +187,8 @@ sections:
           icon_pack: fas
     design:
       background:
-        gradient_start: '#FEF4EC' # vanilla
-        gradient_end: '#F9D6B3' # light orange
+        gradient_start: '#D8E9E3' # mint cream
+        gradient_end: '#FEF4EC' # vanilla
         gradient_angle: 180 
   - block: accomplishments
     content:
@@ -241,8 +241,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F9D6B3' # light orange
-        gradient_end: '#F2F8F6' # mint cream
+        gradient_start: '#FEF4EC' # vanilla
+        gradient_end: '#FAE0C6' # almond
         gradient_angle: 180
   - block: contact
     id: contact
@@ -276,8 +276,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F2F8F6' # mint cream
-        gradient_end: '#CAE2DA' # light mint
+        gradient_start: '#FAE0C6' # almond
+        gradient_end: '#F5F3F7' # ghost white
         gradient_angle: 180 
 
 ---
