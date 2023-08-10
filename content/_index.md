@@ -54,7 +54,7 @@ sections:
           description: ''
         - title: Teaching Assistant, PSY 1010 & 2010
           company: University of Utah, Department of Psychology
-          company_url: ''
+          company_url: 'https://psych.utah.edu/'
           location: Salt Lake City, Utah
           date_start: '2019-08-22'
           date_end: '2020-05-07'
@@ -79,28 +79,28 @@ sections:
       items:
         - title: Instructional Aide
           company: San Luis Coastal Unified School District
-          company_url: ''
+          company_url: 'https://www.slcusd.org/'
           location: San Luis Obispo, California
           date_start: '2022-08-25'
           date_end: '2023-06-02'
           description: ''
         - title: Child Development Specialist
           company: Compass Center, Inc.
-          company_url: ''
+          company_url: 'https://compasscenterinc.com/about-us/'
           location: Santa Maria, California
           date_start: '2021-11-22'
           date_end: '2022-08-24'
           description: ''
         - title: Learning Coach & Behavior Technician
           company: Fit Learning SLC
-          company_url: ''
+          company_url: 'https://fitlearners.com/'
           location: Salt Lake City, Utah
           date_start: '2020-08-22'
           date_end: '2021-07-22'
           description: ''
         - title: Preschool Assistant
           company: The Children's Center
-          company_url: ''
+          company_url: 'https://childrenscenterutah.org/'
           location: Salt Lake City, Utah
           date_start: '2017-10-01'
           date_end: '2018-08-01'
@@ -125,28 +125,28 @@ sections:
       items:
         - title: Volunteer Income Tax Assitance (VITA) Volunteer
           company: United Way
-          company_url: ''
+          company_url: 'https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers'
           location: Santa Maria, California
           date_start: '2022-01-14'
           date_end: '2022-04-15'
           description: ''
         - title: Census Taker (Enumerator)
           company: United States Census Bureau
-          company_url: ''
+          company_url: 'https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html'
           location: Salt Lake City, Utah
           date_start: '2020-08-22'
           date_end: '2020-09-24'
           description: ''
         - title: Student Intern
           company: YWCA, Family Justice Center
-          company_url: ''
+          company_url: 'https://slcfamilyjusticecenter.org/'
           location: Salt Lake City, Utah
           date_start: '2020-01-01'
           date_end: '2021-03-01'
           description: ''
         - title: Strategic Planning Intern
           company: U.S. Department of Health & Human Services
-          company_url: ''
+          company_url: 'https://aspe.hhs.gov/topics/strategic-plan'
           location: Washington, D.C.
           date_start: '2019-05-01'
           date_end: '2019-08-01'
@@ -169,9 +169,21 @@ sections:
           description: ''          
           icon: chart-line
           icon_pack: fas
+        - name: Microsoft Office
+          description: ''
+          icon: microsoft
+          icon_pack: fab
         - name: Project Management
           description: ''
           icon: clipboard
+          icon_pack: fas
+        - name: Qualitative Methods
+          description: ''
+          icon: comment
+          icon_pack: fas
+        - name: Data Collection
+          description: ''
+          icon: box-archive
           icon_pack: fas
     design:
       background:
