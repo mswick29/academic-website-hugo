@@ -64,11 +64,10 @@ Further in this section, my research interests are presented in a fashion much l
 While I am at the start of my academic career, you can access my prior undergraduate work in childcare policy and subjective interpretation in the [publications section](/publications/).
 
 
-{{< spoiler text="**References**" >}}
+## References
 - Danaher, J. & Saetra, H. S. (2022). Technology and moral change: The transformation of truth and trust. *Ethics and Information Technology, 24*(35). https://doi.org/10.1007/s10676-022-09661-y
 - Dixon, R. A. (2001). Developmental psychology. In N. J. Smelser & P. B. Baltes (Eds.), *International Encyclopedia of the Social & Behavioral Sciences* (2nd Edition). Elsevier Ltd. https://doi.org/10.1016/B0-08-043076-7/01642-9
 - Hajnal, Z. (2020). Moral economics - A theoretical basis for building the next economic system. In Róna, P., Zsolnai, L., & Wincewicz-Price, A. (Eds.), *Words, Objects and Events in Economics*. Springer, Cham. https://doi.org/10.1007/978-3-030-52673-3_5
 - Miller, G. A., (2003). The cognitive revolution: A historical perspective. *Trends in Cognitive Sciences, 7*(3), 141-144. doi:10.1016/S1364-6613(03)00029-9
 - Nucci, L. & Turiel, E. (2009). Capturing the complexity of moral development and education. *Mind, Brain, and Education, 3*(3), 151-159.https://doi.org/10.1111/j.1751-228X.2009.01065.x
 - Sirota, K. G. (2019). Emotion, morality, and interpersonal relations as critical components of children's cultural learning in conjunction with middle-class family life in the United States. *Frontiers in Psychology, 10*. https://doi.org/10.3389/fpsyg.2019.01456
-{{< /spoiler >}}
