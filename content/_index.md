@@ -109,7 +109,7 @@ sections:
       columns: '2'
       background:
         gradient_start: '#CAE3dB' # mint green
-        gradient_end: '#F4F6F6' # off-white
+        gradient_end: '#E2E9F3' # alice blue
         gradient_angle: 180
   - block: experience
     content:
@@ -154,8 +154,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F4F6F6' # off-white
-        gradient_end: '#D2DADA' # platinum
+        gradient_start: '#E2E9F3' # alice blue
+        gradient_end: '#C5D3E7' # columbia blue
         gradient_angle: 180
   - block: features
     content:
@@ -187,7 +187,7 @@ sections:
           icon_pack: fas
     design:
       background:
-        gradient_start: '#D2DADA' # platinum
+        gradient_start: '#C5D3E7' # columbia blue
         gradient_end: '#FDF2ED' # seashell
         gradient_angle: 180 
   - block: accomplishments
