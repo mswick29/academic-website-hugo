@@ -13,7 +13,9 @@ sections:
       username: admin
     design:
       background:
-        color: '#FFFFFF' # white
+        gradient_start: '#FFFFFF' # white
+        gradient_end: '#E4F1ED' # mint cream
+        gradient_angle: 180
   - block: experience
     content:
       title: Research & Teaching Experience
@@ -60,8 +62,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FFFFFF' # white
-        gradient_end: '#FAE0C6' # almond
+        gradient_start: '#E4F1ED' # mint cream
+        gradient_end: '#CAE3dB' # mint green
         gradient_angle: 180
   - block: experience
     content:
@@ -106,8 +108,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FAE0C6' # almond
-        gradient_end: '#FDF5EC' # linen
+        gradient_start: '#CAE3dB' # mint green
+        gradient_end: '#F4F6F6' # off-white
         gradient_angle: 180
   - block: experience
     content:
@@ -152,8 +154,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#FDF5EC' # linen
-        gradient_end: '#D8E9E3' # light mint
+        gradient_start: '#F4F6F6' # off-white
+        gradient_end: '#D2DADA' # platinum
         gradient_angle: 180
   - block: features
     content:
@@ -185,8 +187,8 @@ sections:
           icon_pack: fas
     design:
       background:
-        gradient_start: '#D8E9E3' # light mint
-        gradient_end: '#F2F8F6' # mint cream
+        gradient_start: '#D2DADA' # platinum
+        gradient_end: '#FDF2ED' # seashell
         gradient_angle: 180 
   - block: accomplishments
     content:
@@ -239,8 +241,8 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F2F8F6' # mint cream
-        gradient_end: '#FFFFFF' # white
+        gradient_start: '#FDF2ED' # seashell
+        gradient_end: '#F9D8C8' # pale dogwood
         gradient_angle: 180
   - block: contact
     id: contact
@@ -274,7 +276,9 @@ sections:
     design:
       columns: '2'
       background:
-        color: '#FFFFFF' 
+        gradient_start: '#F9D8C8' # pale dogwood
+        gradient_end: 'F2F8F6' # mint cream
+        gradient_angle: 180
 
 ---
 #All hidden blocks - here for future use:
