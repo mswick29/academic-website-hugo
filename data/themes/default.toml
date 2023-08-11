@@ -4,23 +4,23 @@ name = "default"
 
 [light]
   # Primary
-  primary = "#BC4B51" # bittersweet red red
+  primary = "#65517B" # eggplant
 
-  primary_light = "#FEF4EC" # vanilla
+  primary_light = "#FFFFFF" # white
 
   primary_dark = "#121317" # night 
 
   # Menu
-  menu_primary = "#2C1A1D" # licorice
-  menu_text = "#FEF4EC" # vanilla
+  menu_primary = "#1B0E10" # deep licorice
+  menu_text = "#FFFFFF" # white
   menu_text_active = "#F4A259" # orange
-  menu_title = "#FEF4EC" # vanilla
+  menu_title = "#FFFFFF" # white
 
   # Home sections
-  background = "#FEF4EC" # vanilla
+  background = "#FFFFFF" # white
   home_section_odd = "#B2D2C8" # mint grey
-  home_section_even = "#FEF4EC" # vanilla
+  home_section_even = "#FFFFFF" # white
 
   #Links
-  link = "#3F334D" # eggplant
+  link = "#65517B" # eggplant
   link_hover = "#BC4B51" # bittersweet red
