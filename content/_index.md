@@ -276,9 +276,7 @@ sections:
     design:
       columns: '2'
       background:
-        gradient_start: '#F9D8C8' # pale dogwood
-        gradient_end: 'F2F8F6' # mint cream
-        gradient_angle: 180
+        color: '#F9D8C8' # pale dogwood
 
 ---
 #All hidden blocks - here for future use:
