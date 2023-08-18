@@ -36,13 +36,13 @@ categories:
 
 <h2 style="text-align: center;">An Explainer</h2>
 
-Below is a version of the essay I submitted to the University of California, Davis. I applied for admission the psychology PhD program, with a developmental emphasis. The application was inevitable. It was a matter of “when” it would be submitted.
+Below is a version of the essay I submitted to the University of California, Davis. I applied for admission the psychology PhD program, with a developmental emphasis. My application for graduaate school was inevitable. It was all but a matter of “when” it would be submitted.
 
-This was the first in a long time where I wrote honestly. It took a moment for my filters to be removed. To feel unencumbered with crafting a story I thought people wanted to hear. To ignore the personal editor in my head who says I don’t need to speak my thoughts or discuss openly the hard stuff in life.
+This was the first in a long time where I wrote honestly. It took a moment for my filters to be removed to the point where I felt unencumbered with crafting a story I thought people wanted to hear. I had to ignore the personal editor in my head who's hesitant in sharing my thoughts or openly discussing the hard stuff in life.
 
-Keep in mind, I was writing for admission to a top-tier university where I was competing gets an unknown number of mysteriously much-better applicants. The paragraph about my mother and father express my true thoughts surrounding my background and my future. However, the paragraph, and the rest of this essay, is underpinned with the fact I was trying to distinguish myself as a unique individual and diverse candidate, when in actuality, discovery, change, and loss is a story almost anyone can tell. 
+For full transparency, I was writing for admission to a top-tier university where I was competing against an unknown number of mysteriously much more qualified applicants. This essay is underpinned with the fact I was trying to distinguish myself as a unique individual and diverse candidate, **when in actuality, discovery, change, and loss is a story almost anyone can tell**. 
 
-However, I stand by the takeaways I outline from my stories. Those are authentic, whether you choose to believe them or not.
+However, I stand by the takeaways I outline from my stories. Those are authentic, whether you choose to accept them or not.
 
 
 <h2 style="text-align: center;">Personal History & Diversity Statement</h2>
