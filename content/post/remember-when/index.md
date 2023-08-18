@@ -3,7 +3,7 @@ title: Remember When?
 subtitle: A personal essay on memory, childhood, and time.
 
 # Summary for listings and search engines
-summary: Let's go back to the classroom. Way back.
+summary: Let's go back to the classroom.
 
 # Link this post with a project
 projects: []
