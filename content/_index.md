@@ -43,7 +43,7 @@ sections:
           company_url: 'https://verisinsights.com/'
           location: Washington, D.C. (Remote)
           date_start: '2022-01-31'
-          date_end: ''
+          date_end: '2023-08-25'
           description: ''
         - title: Research Assistant
           company: University of Utah, Social Development Lab
@@ -254,7 +254,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: southwick.maia@gmail.com
       address:
-        city: San Luis Obispo
+        city: Davis
         region: CA
         country: United States
         country_code: US
