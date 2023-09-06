@@ -31,18 +31,16 @@ tags:
   - grad school application
 
 categories:
-  - history
+  - retrospective
 ---
 
-<h2 style="text-align: center;">An Explainer</h2>
+<h2 style="text-align: center;">Preface</h2>
 
-Below is a version of the essay I submitted to the University of California, Davis. I applied for admission the psychology PhD program, with a developmental emphasis. My application for graduaate school was inevitable. It was all but a matter of “when” it would be submitted.
+Below is a version of an essay I submitted for my psychology PhD program applications. This was the first in a long time where I wrote honestly. It took a moment for my filters to be removed to the point where I felt unencumbered with crafting a story I thought people wanted to hear. During the process, I had to move past the hesistance I've always had when it came to fully sharing my thoughts or openly discussing the hard stuff in life.
 
-This was the first in a long time where I wrote honestly. It took a moment for my filters to be removed to the point where I felt unencumbered with crafting a story I thought people wanted to hear. I had to ignore the personal editor in my head who's hesitant in sharing my thoughts or openly discussing the hard stuff in life.
+For full transparency, I was writing for admission to highly competitive universities where I was competing against an unknown number of mysteriously, and most likely, much more qualified applicants. This essay is underpinned with the fact I was trying to distinguish myself as a unique individual and diverse candidate, **when in actuality, discovery, change, and loss is a story almost anyone can tell**. 
 
-For full transparency, I was writing for admission to a top-tier university where I was competing against an unknown number of mysteriously much more qualified applicants. This essay is underpinned with the fact I was trying to distinguish myself as a unique individual and diverse candidate, **when in actuality, discovery, change, and loss is a story almost anyone can tell**. 
-
-However, I stand by the takeaways I outline from my stories. Those are authentic, whether you choose to accept them or not.
+However, I stand by the takeaways I outline in my story. Those are authentic, whether you choose to accept them or not.
 
 
 <h2 style="text-align: center;">Personal History & Diversity Statement</h2>
