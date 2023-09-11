@@ -13,8 +13,8 @@ main:
   - name: CV & Publications
     url: 'publications/'
     weight: 30   
-  - name: Writings
-    url: 'post/'
+  - name: Handbook
+    url: 'handbook/'
     weight: 40    
   - name: Contact
     url: '#contact'
