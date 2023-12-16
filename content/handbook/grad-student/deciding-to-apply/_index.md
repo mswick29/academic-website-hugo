@@ -1,5 +1,7 @@
 ---
-title: Deciding to Apply
+title: A Critical Point - Is Graduate School What I Need?
+
+linktitle: Deciding to Apply
 
 summary: Making the choice to apply to a PhD program is a difficult one. Let's fully explore what you have to take into account to make such a decision.
 
@@ -23,9 +25,7 @@ Before we get started, here are some excellent resources to review as you read t
 - [”Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology”, Mitch Prinstein](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)
 - [”Kisses of Death in the Graduate School Application Process” (Appleby & Appleby, 2006)](https://psychology.unl.edu/psichi/Graduate_School_Application_Kisses_of_Death.pdf)
 
-This will be a multi-post series, and so feel free to jump to sections you are interested as outlined below. 
-
-[To be added in as new material is published.]
+This will be a multi-post series, and so feel free to jump to sections you are interested as outlined to the left. 
 
 ## Exploring Career Paths & Finding Direction
 
@@ -34,7 +34,7 @@ I left my undergraduate career confident in my research ability, but unsure of w
 I outlined my post-undergraduate experience because it was scattered, yet necessary in identifying my life and professional priorities. Over that two year gap between undergraduate and graduate school, I considered numerous paths outside of academia that would best utilize my research skills and psychological understanding. I’ve outlined the possible paths below, in additional to optional/required advanced degrees needed for the roles:
 
 1. **Public & Social Policy:** A career in [social policy](https://www.lse.ac.uk/social-policy/about-us/What-is-social-policy) leverages research skills in policy development and programming for the goal of supporting a broader population of people. Further training can include pursuing a Master’s of Public Policy (MPP) or Public Administration, a dual MPP/Ph.D. program, or exploring other advanced degrees in the social sciences (e.g., economics, population sciences, sociology, public health, and more). A helpful guide on a career in public policy can be found [here](https://research.com/careers/public-policy-careers).
-2. **Education:** Working in the education field, whether it’s K-12 or higher education, is an excellent way to further understanding of human development and learning. Areas of job opportunity in education include administration, teaching, programming, advising, school counseling, and much more. The type of training or educational pre-requisites needed to enter this field is dependent on the role; required degrees can range from teaching credential, bachelor’s or master’s degree in education, Ph.D. in educational policy, or to no degree at all.
+2. **Education:** Working in the education field, whether it’s K-12 or higher education, is an excellent way to further understanding of human development and learning. Areas of job opportunity in education include administration, teaching, programming, advising, school counseling, and much more. The type of training or educational pre-requisites needed to enter this field is dependent on the role; required degrees can range from teaching credentials, bachelor’s or master’s degree in education, Ph.D. in educational policy, or to no degree at all.
 3. ***Clinical Work:***
     1. **School Psychology:** School psychology is a more applied psychology extension of working in the K-12 educational system. [School psychologists](https://www.nasponline.org/about-school-psychology/who-are-school-psychologists) support schools in assessing students, developing behavioral and academic plans, and many other responsibilities depending on the school and district. I’ve found that this YouTuber, [Tiffany Lee](https://www.youtube.com/@TiffanyLee), provides excellent videos on what a career in school psychology looks like, and what it takes to get there. **A master’s (Ed.M./Ed.S.) or Ph.D. is needed (learn more on pre-requisites [here](**https://www.psychology.org/careers/school-psychologist/))**.
     2. **Speech-Language Pathology:** Another opportunity for clinical training is becoming a [speech-language pathologist](https://www.asha.org/public/who-are-speech-language-pathologists/) (SLP). SLPs can work with people across a wide range of ages, and specialize in language and social-emotional development. SLPs can find themselves working a variety of contexts, such as schools, private practice, hospitals, and more.  **A master’s (Ed.M./Ed.S.) is needed (learn more on pre-requisites [here](**https://www.indeed.com/career-advice/career-development/how-to-become-a-speech-pathologist))**.
@@ -43,7 +43,7 @@ I outlined my post-undergraduate experience because it was scattered, yet necess
     1. **Nonprofits & Think-Tanks:** This section somewhat relates back to a [career path in public policy](https://research.com/careers/public-policy-careers). Nonprofit organizations can vary greatly by services they provide and the issues they cover in their work. Depending on the funding and prestige of a nonprofit organization, roles can be more [generalist](https://www.indeed.com/hire/c/info/generalist-definition) or highly specialized. Further information can be found [here](https://career.ucsf.edu/phds/career-paths/non-profit).
     2. **Market Research:** Compared to the other career paths mentioned, market research has a much lower barrier to entry, and it can be a well-compensated career path even starting as an entry-level employee. Market research entails conducting studies, data collection, and analyzing data on various topics to create research reports and products that are sold to interested customers or to inform business strategy. More information on a career in market research can be found [here](https://www.blackridgeresearch.com/blog/thinking-of-a-job-career-in-market-research).
 
-### The Process of Career Pathing & Choosing a PhD
+## The Process of Career Pathing & Choosing a PhD
 
 What’s listed above is only a portion of what you can do with a background in developmental psychology. Below are some helpful resources on choosing a career and developing a career plan based on your interests and background. After you develop an initial plan, be open to any changes that may arise in your life. Priorities change over time, and things you can’t predict may pop up. Be flexible with your professional trajectory, and frequently evaluate you’re on the right path that makes sense for you. If you settle on one career path and then realize it’s not for you, there will always be an opportunity to change course.
 
@@ -54,3 +54,17 @@ What’s listed above is only a portion of what you can do with a background in 
 - [”9 Things You Should Consider Before Embarking on a PhD” (Greenspon, 2013)](https://www.elsevier.com/connect/9-things-you-should-consider-before-embarking-on-a-phd)
 - [”Is a PhD right for me? Navigating the PhD admissions process” (Paul & Kopper, 2023)](https://www.povertyactionlab.org/blog/1-10-23/phd-right-me-navigating-phd-admissions-process)
 - [”Starting Your Doctoral Journey”, University of Pennsylvania](https://doctoral.wharton.upenn.edu/doctoral-journey/)
+
+## A Personal Assessment: The Deciding Factors in My Decision to Apply
+
+1. **Exit... (Academia) Stage Left:** During my junior year of college, I was advised to consider graduate school with deliberateness. For context, I've spent my entire academic career maximizing my academic opportunities and "racing to the finish line". While pursuing a PhD seemed to be the next "logical step" in a career in psychology, I realized I needed to explore other professional opportunities before making the hefty (and costly) choice of continuing extra schooling. This meant I spent extra time finding applied experiences both inside and outside of the field of psychology during my undergraduate career. The final semester of senior year and the summer afterwards, I applied to countless full-time roles in different disciplines and different areas of the U.S. I eventually found work legal assisting, with the intention of fully exploring the legal field as a career path. These plans were soon disrupted when I had a reality check involving my family. Such a crisis in my personal life led me to sharply re-consider what was important to me, and what I wanted out of my life. Without having taken this time outside of academia, I believe I wouldn't have had the resolve to critically evaluate my priorities and life goals. I'm grateful for the advice I was given which help me slow down, earn an income, and open up my time to spend growing myself and spend with family and friends.
+
+2. **Celebrating My Strengths & Interests:** Success in school came naturally to me. As such, I spent a lot of my mental energy instead focusing on my weaknesses and what I wasn't good at, with the hope that I could become a jack-of-all-trades. This is still a major instinct of mine, which has its benefits, but it led me to discount my strengths and the unique perspective I can offer to the spaces I enter. A smart reply from a previous supervisor of mine brought this habit to light after me continually bringing up what I could do better in. She said, ***"Why only focus on your weaknesses? Why not focus on your strengths?"***. Her words have sat with me for the past four years, yet I haven't always listened to them. However, my decision to graduate school eventually circled back to this maxim. I loved research. And I happened to be good at it. My passion rested in pushing this strength of mine past its limits, nay, past the limits of the field of psychology itself. My experience in market research only attested this fact, and it gave me the confidence that I can adapt and succeed in a variety of research contexts, not just academic. With this in mind, I knew I had to give academia another try, to see how far I can succeed in doing what I can do best.
+
+3. **What I Was *Not* Interested In:**
+
+4. **Nature of the Work:**
+
+5. **Economic Standing & Privilege:**
+
+Lastly, the support and encouragement of my partner helped push me to apply sooner rather than later. My eventual admission to graduate school was a mix of fortunate timing, individual effort, and support from close ones.

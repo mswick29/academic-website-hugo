@@ -123,7 +123,7 @@ sections:
         * Conducted research on barriers in access to childcare subsidies among low-income families
       date_format: Jan 2006
       items:
-        - title: Volunteer Income Tax Assitance (VITA) Volunteer
+        - title: Volunteer Income Tax Assistance (VITA) Volunteer
           company: United Way
           company_url: 'https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers'
           location: Santa Maria, California
