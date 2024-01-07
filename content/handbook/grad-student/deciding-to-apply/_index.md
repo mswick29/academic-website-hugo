@@ -61,10 +61,10 @@ What’s listed above is only a portion of what you can do with a background in 
 
 2. **Celebrating My Strengths & Interests:** Success in school came naturally to me. As such, I spent a lot of my mental energy instead focusing on my weaknesses and what I wasn't good at, with the hope that I could become a jack-of-all-trades. This is still a major instinct of mine, which has its benefits, but it led me to discount my strengths and the unique perspective I can offer to the spaces I enter. A smart reply from a previous supervisor of mine brought this habit to light after me continually bringing up what I could do better in. She said, ***"Why only focus on your weaknesses? Why not focus on your strengths?"***. Her words have sat with me for the past four years, yet I haven't always listened to them. However, my decision to graduate school eventually circled back to this maxim. I loved research. And I happened to be good at it. My passion rested in pushing this strength of mine past its limits, nay, past the limits of the field of psychology itself. My experience in market research only attested this fact, and it gave me the confidence that I can adapt and succeed in a variety of research contexts, not just academic. With this in mind, I knew I had to give academia another try, to see how far I can succeed in doing what I can do best.
 
-3. **What I Was *Not* Interested In:**
+<!-- 3. **What I Was *Not* Interested In:**
 
 4. **Nature of the Work:**
 
-5. **Economic Standing & Privilege:**
+5. **Economic Standing & Privilege:** -->
 
 Lastly, the support and encouragement of my partner helped push me to apply sooner rather than later. My eventual admission to graduate school was a mix of fortunate timing, individual effort, and support from close ones.
