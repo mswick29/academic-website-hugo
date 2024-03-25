@@ -63,6 +63,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maia-southwick/
+  - icon: bluesky
+    link: https://bsky.app/profile/maia-southwick.bsky.social
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,7 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my personal site! I am an incoming PhD student to the [Mind & Emotions Lab](https://mindemotiondevelopmentlab.ucdavis.edu/) at the University of California, Davis. As my academic career takes shape, so should this site! 
+Welcome to my personal site! I am a first-year PhD student studying under Drs. Kristin Hansen Lagattuta ([Mind-Emotion Development Lab](https://mindemotiondevelopmentlab.ucdavis.edu/)) & Emilio Ferrer ([Dynamics in Psychological Science Lab](https://dynamics.ucdavis.edu/)) at the University of California, Davis. As my academic career takes shape, so should this site! 
 
 Feel free to peruse my posts, review my experience, and reach out with any questions.
 
