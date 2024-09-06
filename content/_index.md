@@ -38,6 +38,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Teaching Assistant
+          company: University of California, Davis
+          company_url: ''
+          location: Davis, California
+          date_start: '2023-09-27'
+          date_end: ''
+          description: ''
         - title: Senior Research Associate
           company: Veris Insights
           company_url: 'https://verisinsights.com/'
@@ -77,6 +84,13 @@ sections:
         * Implemented early intervention services & behavioral management
       date_format: Jan 2006
       items:
+        - title: Volunteer Assistant Soccer Coach
+          company: AYSO
+          company_url: 'https://www.davisayso.org/'
+          location: Davis, California
+          date_start: '2024-09-03'
+          date_end: ''
+          description: ''
         - title: Instructional Aide
           company: San Luis Coastal Unified School District
           company_url: 'https://www.slcusd.org/'
