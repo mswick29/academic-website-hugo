@@ -28,11 +28,14 @@ bio: My research interests include developmental psychology and dynamics.
 interests:
   - Moral Development
   - Social Cognition
-  - Dynamic Systems
+  - Methodology
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD Student, Developmental Psychology
+      institution: University of California, Davis
+      year: TBD
     - course: BSc in Psychology, Honors
       institution: University of Utah
       year: 2021
@@ -79,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my personal site! I am a first-year PhD student studying under Drs. Kristin Hansen Lagattuta ([Mind-Emotion Development Lab](https://mindemotiondevelopmentlab.ucdavis.edu/)) & Emilio Ferrer ([Dynamics in Psychological Science Lab](https://dynamics.ucdavis.edu/)) at the University of California, Davis. As my academic career takes shape, so should this site! 
+Welcome to my personal site! I am a second-year PhD student studying under Drs. Kristin Hansen Lagattuta ([Mind-Emotion Development Lab](https://mindemotiondevelopmentlab.ucdavis.edu/)) & Emilio Ferrer ([Dynamics in Psychological Science Lab](https://dynamics.ucdavis.edu/)) at the University of California, Davis. As my academic career takes shape, so should this site! 
 
 Feel free to peruse my posts, review my experience, and reach out with any questions.
 
