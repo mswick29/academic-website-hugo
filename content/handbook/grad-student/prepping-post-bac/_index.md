@@ -20,13 +20,13 @@ Whether or not you have decided on graduate school, seeking out professional exp
 
 The resources I have found most helpful were either ones I leveraged during my undergraduate experience or I wish I had knowledge of when I was searching for work opportunities. These will be provided below. There is a hidden curriculum in academia, and while this isn't a single person's fault, some individuals get exposed to this curriculum sooner than others. On a related note, check out Margaret Echelbarger's [newsletter](https://letstalkgradschool.substack.com/) and [social media](https://bsky.app/profile/bskybymidge.bsky.social) for some more hidden curriculum content.
 
-# Table {.tabset}
 ## General Sites
 
+The below site hosts a lot of different resources related to psychology. Check it out!
 - [PsychResearchList](https://www.psychresearchlist.com/)
 
 ## UC Davis
-
+If you've taken a class from me, then you're likely a UC Davis student! There are plenty of opportunities to 
 - [Internship & Career Center](https://icc.ucdavis.edu/) 
 - [Psychology & Cognitive Science Research](https://yellowcluster.ucdavis.edu/psc-research)
 
@@ -47,22 +47,22 @@ Job and internship postings for variety of entry-level and more senior positions
 - [APA Divisions' Listservs](https://www.apa.org/about/division)
 
 ## Organizations
+There are countless professional organizations out there. Below is a short snapshot of developmental psychology societies. 
 
 - [Social Domain Theory International Colloquium group](https://www.socialdomaintheory.com/)
 - [Cognitive Development Society](https://cogdevsoc.org/)
 - [Society for Researh in Child Development](https://www.srcd.org/)
+- [Jean Piaget Society](https://piaget.org/)
 
 ## Job Banks
 
-Depending on how frequently the job banks are updated, they may be more or less useful. Other general job search sites such as []
+Depending on how frequently the job banks are updated, they may be more or less useful. Other general job search sites such as LinkedIn and Indeed are widely used by many jobseekers.
 
 - [Cognitive Development Society job bank](https://cogdevsoc.org/job-bank/)
 - [Association of Psychological Science job bank](https://jobs.psychologicalscience.org/)
 - [American Psychological Association job bank](https://www.apa.org/education-career)
 - [EDJoin, a national education job board](https://www.edjoin.org/)
 - [Society for Research in Child Development](https://careers.srcd.org/)
-
-# {-}
 
 <!---
 ## Finding Work: Rejection, Finances, & Flexibility
