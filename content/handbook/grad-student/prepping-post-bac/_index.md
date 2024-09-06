@@ -1,5 +1,5 @@
 ---
-title: Where to Start? Opportunities & Resources 
+title: Where Do I Look? Opportunities & Resources 
 
 linktitle: Finding Experiences
 
@@ -13,7 +13,7 @@ type: book
 # position of this page in the menu, remove the option to sort alphabetically.
 
 weight: 20
-
+featured: true
 ---
 
 Whether or not you have decided on graduate school, seeking out professional experiences can inform your understanding of how a field works and what it may take to succeed in that professional context. Yet, multiple barriers may arise for the aspiring professional based on your current personal, academic, and financial situation. 
